@@ -2718,3 +2718,2152 @@
 [2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
 [2m       L4:  [22mimport 'rxjs/add/operator/map';
 
+[2m[09:42:31][22m  build started [2m...[22m 
+[2m[09:42:31][22m  transpile update started [2m...[22m 
+[2m[09:42:31][22m  transpile update finished [2min 44 ms[22m 
+[2m[09:42:31][22m  deeplinks update started [2m...[22m 
+[2m[09:42:31][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[09:42:31][22m  webpack update started [2m...[22m 
+[2m[09:42:32][22m  webpack update finished [2min 564 ms[22m 
+[2m[09:42:33][22m  [1m[32mbuild finished[39m[22m [2min 2.21 s[22m 
+
+[33m[09:42:36]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[09:42:36]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[09:44:21][22m  build started [2m...[22m 
+[2m[09:44:21][22m  transpile update started [2m...[22m 
+[2m[09:44:21][22m  transpile update finished [2min 24 ms[22m 
+[2m[09:44:21][22m  deeplinks update started [2m...[22m 
+[2m[09:44:21][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[09:44:21][22m  webpack update started [2m...[22m 
+[2m[09:44:34][22m  webpack update finished [2min 12.46 s[22m 
+[2m[09:44:34][22m  [1m[32mbuild finished[39m[22m [2min 12.51 s[22m 
+
+[33m[09:44:36]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[09:44:36]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[09:45:03][22m  build started [2m...[22m 
+[2m[09:45:03][22m  transpile update started [2m...[22m 
+[2m[09:45:03][22m  transpile update finished [2min 37 ms[22m 
+[2m[09:45:03][22m  deeplinks update started [2m...[22m 
+[2m[09:45:03][22m  deeplinks update finished [2min 38 ms[22m 
+[2m[09:45:03][22m  webpack update started [2m...[22m 
+[2m[09:45:13][22m  webpack update finished [2min 9.27 s[22m 
+[2m[09:45:13][22m  [1m[32mbuild finished[39m[22m [2min 9.35 s[22m 
+
+[33m[09:45:15]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[09:45:15]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[09:46:14][22m  build started [2m...[22m 
+[2m[09:46:14][22m  transpile update started [2m...[22m 
+[2m[09:46:14][22m  transpile update finished [2min 56 ms[22m 
+[2m[09:46:14][22m  deeplinks update started [2m...[22m 
+[2m[09:46:14][22m  deeplinks update finished [2min 13 ms[22m 
+[2m[09:46:14][22m  webpack update started [2m...[22m 
+[2m[09:46:26][22m  webpack update finished [2min 11.96 s[22m 
+[2m[09:46:26][22m  [1m[32mbuild finished[39m[22m [2min 12.04 s[22m 
+
+[33m[09:46:29]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[09:46:29]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[09:48:14][22m  build started [2m...[22m 
+[2m[09:48:14][22m  transpile update started [2m...[22m 
+[2m[09:48:14][22m  transpile update finished [2min 51 ms[22m 
+[2m[09:48:14][22m  deeplinks update started [2m...[22m 
+[2m[09:48:14][22m  deeplinks update finished [2min 26 ms[22m 
+[2m[09:48:14][22m  webpack update started [2m...[22m 
+[2m[09:48:24][22m  webpack update finished [2min 9.57 s[22m 
+[2m[09:48:24][22m  [1m[32mbuild finished[39m[22m [2min 9.66 s[22m 
+
+[33m[09:48:26]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[09:48:26]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[09:51:33][22m  build started [2m...[22m 
+[2m[09:51:33][22m  transpile update started [2m...[22m 
+[2m[09:51:33][22m  transpile update finished [2min 61 ms[22m 
+[2m[09:51:33][22m  deeplinks update started [2m...[22m 
+[2m[09:51:33][22m  deeplinks update finished [2min 28 ms[22m 
+[2m[09:51:33][22m  webpack update started [2m...[22m 
+[2m[09:51:46][22m  webpack update finished [2min 12.90 s[22m 
+[2m[09:51:46][22m  [1m[32mbuild finished[39m[22m [2min 13.00 s[22m 
+
+[33m[09:51:48]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[09:51:48]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[09:53:08][22m  build started [2m...[22m 
+[2m[09:53:08][22m  transpile update started [2m...[22m 
+[2m[09:53:08][22m  transpile update finished [2min 37 ms[22m 
+[2m[09:53:08][22m  deeplinks update started [2m...[22m 
+[2m[09:53:08][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[09:53:08][22m  webpack update started [2m...[22m 
+[2m[09:53:17][22m  webpack update finished [2min 9.72 s[22m 
+[2m[09:53:17][22m  [1m[32mbuild finished[39m[22m [2min 9.78 s[22m 
+
+[33m[09:53:20]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[09:53:20]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[09:58:26][22m  build started [2m...[22m 
+[2m[09:58:26][22m  transpile update started [2m...[22m 
+[2m[09:58:26][22m  transpile update finished [2min 48 ms[22m 
+[2m[09:58:26][22m  deeplinks update started [2m...[22m 
+[2m[09:58:26][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[09:58:26][22m  webpack update started [2m...[22m 
+[2m[09:58:38][22m  webpack update finished [2min 12.12 s[22m 
+[2m[09:58:38][22m  [1m[32mbuild finished[39m[22m [2min 12.18 s[22m 
+
+[33m[09:58:40]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[09:58:40]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:04:10][22m  build started [2m...[22m 
+[2m[10:04:10][22m  transpile update started [2m...[22m 
+[2m[10:04:10][22m  transpile update finished [2min 32 ms[22m 
+[2m[10:04:10][22m  deeplinks update started [2m...[22m 
+[2m[10:04:10][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[10:04:10][22m  webpack update started [2m...[22m 
+[2m[10:04:19][22m  webpack update finished [2min 9.81 s[22m 
+[2m[10:04:19][22m  [1m[32mbuild finished[39m[22m [2min 9.86 s[22m 
+
+[33m[10:04:22]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:04:22]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:05:13][22m  build started [2m...[22m 
+[2m[10:05:13][22m  transpile update started [2m...[22m 
+[2m[10:05:14][22m  transpile update finished [2min 43 ms[22m 
+[2m[10:05:14][22m  deeplinks update started [2m...[22m 
+[2m[10:05:14][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[10:05:14][22m  webpack update started [2m...[22m 
+[2m[10:05:25][22m  webpack update finished [2min 11.55 s[22m 
+[2m[10:05:25][22m  [1m[32mbuild finished[39m[22m [2min 11.68 s[22m 
+
+[33m[10:05:28]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:05:28]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:06:34][22m  build started [2m...[22m 
+[2m[10:06:34][22m  transpile update started [2m...[22m 
+[2m[10:06:34][22m  transpile update finished [2min 39 ms[22m 
+[2m[10:06:34][22m  deeplinks update started [2m...[22m 
+[2m[10:06:34][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[10:06:34][22m  webpack update started [2m...[22m 
+[2m[10:06:44][22m  webpack update finished [2min 9.72 s[22m 
+[2m[10:06:44][22m  [1m[32mbuild finished[39m[22m [2min 9.77 s[22m 
+
+[33m[10:06:46]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:06:46]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:09:39][22m  build started [2m...[22m 
+[2m[10:09:39][22m  transpile update started [2m...[22m 
+[2m[10:09:39][22m  transpile update finished [2min 31 ms[22m 
+[2m[10:09:39][22m  deeplinks update started [2m...[22m 
+[2m[10:09:39][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[10:09:39][22m  webpack update started [2m...[22m 
+[2m[10:09:51][22m  webpack update finished [2min 12.37 s[22m 
+[2m[10:09:51][22m  [1m[32mbuild finished[39m[22m [2min 12.42 s[22m 
+
+[33m[10:09:53]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:09:54]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:22:19][22m  build started [2m...[22m 
+[2m[10:22:19][22m  transpile update started [2m...[22m 
+[2m[10:22:20][22m  transpile update finished [2min 36 ms[22m 
+[2m[10:22:20][22m  deeplinks update started [2m...[22m 
+[2m[10:22:20][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[10:22:20][22m  webpack update started [2m...[22m 
+[2m[10:22:30][22m  webpack update finished [2min 10.69 s[22m 
+[2m[10:22:30][22m  [1m[32mbuild finished[39m[22m [2min 10.74 s[22m 
+
+[33m[10:22:33]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:22:33]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:27:28][22m  build started [2m...[22m 
+[2m[10:27:28][22m  transpile update started [2m...[22m 
+[31m[10:27:29]  typescript: src/pages/home/home.ts, line: 19 [39m
+            ')' expected. 
+
+[2m      L18:  [22m  this.city="城市";
+[2m      L19:  [22m  console.log(this.jsonp.get("http://localhost:8080/?callback=JSONP_CALLBACK")[41m;[49m
+
+[2m[10:27:29][22m  [1m[32mbuild finished[39m[22m [2min 1.69 s[22m 
+
+[33m[10:27:31]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:27:31]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:27:36][22m  build started [2m...[22m 
+[2m[10:27:36][22m  transpile update started [2m...[22m 
+[2m[10:27:36][22m  transpile update finished [2min 17 ms[22m 
+[2m[10:27:36][22m  deeplinks update started [2m...[22m 
+[2m[10:27:36][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[10:27:36][22m  webpack update started [2m...[22m 
+[2m[10:27:49][22m  webpack update finished [2min 12.66 s[22m 
+[2m[10:27:49][22m  [1m[32mbuild finished[39m[22m [2min 12.69 s[22m 
+
+[33m[10:27:51]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:27:51]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:31:37][22m  build started [2m...[22m 
+[2m[10:31:37][22m  transpile update started [2m...[22m 
+[2m[10:31:37][22m  transpile update finished [2min 30 ms[22m 
+[2m[10:31:37][22m  deeplinks update started [2m...[22m 
+[2m[10:31:37][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[10:31:37][22m  webpack update started [2m...[22m 
+[2m[10:31:47][22m  webpack update finished [2min 10.67 s[22m 
+[2m[10:31:47][22m  [1m[32mbuild finished[39m[22m [2min 10.72 s[22m 
+
+[33m[10:31:50]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:31:50]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:41:05][22m  build started [2m...[22m 
+[2m[10:41:05][22m  transpile update started [2m...[22m 
+[2m[10:41:05][22m  transpile update finished [2min 31 ms[22m 
+[2m[10:41:05][22m  deeplinks update started [2m...[22m 
+[2m[10:41:05][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[10:41:05][22m  webpack update started [2m...[22m 
+[2m[10:41:18][22m  webpack update finished [2min 12.54 s[22m 
+[2m[10:41:18][22m  [1m[32mbuild finished[39m[22m [2min 12.59 s[22m 
+
+[33m[10:41:20]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:41:20]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:44:57][22m  build started [2m...[22m 
+[2m[10:44:57][22m  transpile update started [2m...[22m 
+[2m[10:44:57][22m  transpile update finished [2min 72 ms[22m 
+[2m[10:44:57][22m  deeplinks update started [2m...[22m 
+[2m[10:44:57][22m  deeplinks update finished [2min 17 ms[22m 
+[2m[10:44:57][22m  webpack update started [2m...[22m 
+[2m[10:45:06][22m  webpack update finished [2min 9.80 s[22m 
+[2m[10:45:06][22m  [1m[32mbuild finished[39m[22m [2min 9.90 s[22m 
+
+[33m[10:45:09]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:45:09]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:45:32][22m  build started [2m...[22m 
+[2m[10:45:32][22m  transpile update started [2m...[22m 
+[2m[10:45:32][22m  transpile update finished [2min 40 ms[22m 
+[2m[10:45:32][22m  deeplinks update started [2m...[22m 
+[2m[10:45:32][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[10:45:32][22m  webpack update started [2m...[22m 
+[2m[10:45:43][22m  webpack update finished [2min 11.47 s[22m 
+[2m[10:45:43][22m  [1m[32mbuild finished[39m[22m [2min 11.52 s[22m 
+
+[33m[10:45:46]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:45:46]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:46:31][22m  build started [2m...[22m 
+[2m[10:46:31][22m  transpile update started [2m...[22m 
+[2m[10:46:31][22m  transpile update finished [2min 32 ms[22m 
+[2m[10:46:31][22m  deeplinks update started [2m...[22m 
+[2m[10:46:31][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[10:46:31][22m  webpack update started [2m...[22m 
+[2m[10:46:41][22m  webpack update finished [2min 9.95 s[22m 
+[2m[10:46:41][22m  [1m[32mbuild finished[39m[22m [2min 10.00 s[22m 
+
+[33m[10:46:43]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:46:43]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:59:00][22m  build started [2m...[22m 
+[2m[10:59:00][22m  transpile update started [2m...[22m 
+[2m[10:59:00][22m  transpile update finished [2min 55 ms[22m 
+[2m[10:59:00][22m  deeplinks update started [2m...[22m 
+[2m[10:59:00][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[10:59:00][22m  webpack update started [2m...[22m 
+[2m[10:59:13][22m  webpack update finished [2min 12.79 s[22m 
+[2m[10:59:13][22m  [1m[32mbuild finished[39m[22m [2min 12.86 s[22m 
+
+[33m[10:59:15]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[10:59:15]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[10:59:57][22m  build started [2m...[22m 
+[2m[10:59:57][22m  transpile update started [2m...[22m 
+[2m[10:59:57][22m  transpile update finished [2min 54 ms[22m 
+[2m[10:59:57][22m  deeplinks update started [2m...[22m 
+[2m[10:59:57][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[10:59:57][22m  webpack update started [2m...[22m 
+[2m[10:59:58][22m  webpack update finished [2min 417 ms[22m 
+[2m[10:59:59][22m  [1m[32mbuild finished[39m[22m [2min 1.64 s[22m 
+
+[33m[11:00:01]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:00:01]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:01:52][22m  build started [2m...[22m 
+[2m[11:01:52][22m  transpile update started [2m...[22m 
+[2m[11:01:52][22m  transpile update finished [2min 44 ms[22m 
+[2m[11:01:52][22m  deeplinks update started [2m...[22m 
+[2m[11:01:52][22m  deeplinks update finished [2min 20 ms[22m 
+[2m[11:01:52][22m  webpack update started [2m...[22m 
+[2m[11:02:04][22m  webpack update finished [2min 12.03 s[22m 
+[2m[11:02:04][22m  [1m[32mbuild finished[39m[22m [2min 12.12 s[22m 
+
+[33m[11:02:07]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:02:07]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:02:34][22m  build started [2m...[22m 
+[2m[11:02:34][22m  transpile update started [2m...[22m 
+[2m[11:02:34][22m  transpile update finished [2min 66 ms[22m 
+[2m[11:02:34][22m  deeplinks update started [2m...[22m 
+[2m[11:02:34][22m  deeplinks update finished [2min 22 ms[22m 
+[2m[11:02:34][22m  webpack update started [2m...[22m 
+[2m[11:02:45][22m  webpack update finished [2min 10.24 s[22m 
+[2m[11:02:45][22m  [1m[32mbuild finished[39m[22m [2min 10.34 s[22m 
+
+[33m[11:02:47]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:02:47]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:04:37][22m  build started [2m...[22m 
+[2m[11:04:37][22m  transpile update started [2m...[22m 
+[2m[11:04:37][22m  transpile update finished [2min 46 ms[22m 
+[2m[11:04:37][22m  deeplinks update started [2m...[22m 
+[2m[11:04:37][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[11:04:37][22m  webpack update started [2m...[22m 
+[2m[11:04:49][22m  webpack update finished [2min 12.68 s[22m 
+[2m[11:04:49][22m  [1m[32mbuild finished[39m[22m [2min 12.75 s[22m 
+
+[33m[11:04:52]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:04:52]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:06:43][22m  build started [2m...[22m 
+[2m[11:06:43][22m  transpile update started [2m...[22m 
+[2m[11:06:43][22m  transpile update finished [2min 29 ms[22m 
+[2m[11:06:43][22m  deeplinks update started [2m...[22m 
+[2m[11:06:43][22m  deeplinks update finished [2min 16 ms[22m 
+[2m[11:06:43][22m  webpack update started [2m...[22m 
+[2m[11:06:53][22m  webpack update finished [2min 9.86 s[22m 
+[2m[11:06:53][22m  [1m[32mbuild finished[39m[22m [2min 9.91 s[22m 
+
+[33m[11:06:55]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:06:55]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:07:53][22m  build started [2m...[22m 
+[2m[11:07:53][22m  transpile update started [2m...[22m 
+[2m[11:07:53][22m  transpile update finished [2min 50 ms[22m 
+[2m[11:07:53][22m  deeplinks update started [2m...[22m 
+[2m[11:07:53][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[11:07:53][22m  webpack update started [2m...[22m 
+[2m[11:08:06][22m  webpack update finished [2min 13.11 s[22m 
+[2m[11:08:06][22m  [1m[32mbuild finished[39m[22m [2min 13.18 s[22m 
+
+[33m[11:08:08]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:08:08]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:08:18][22m  build started [2m...[22m 
+[2m[11:08:18][22m  transpile update started [2m...[22m 
+[2m[11:08:18][22m  transpile update finished [2min 45 ms[22m 
+[2m[11:08:18][22m  deeplinks update started [2m...[22m 
+[2m[11:08:18][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[11:08:18][22m  webpack update started [2m...[22m 
+[2m[11:08:27][22m  webpack update finished [2min 8.85 s[22m 
+[2m[11:08:27][22m  [1m[32mbuild finished[39m[22m [2min 8.91 s[22m 
+
+[33m[11:08:30]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:08:30]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:08:40][22m  build started [2m...[22m 
+[2m[11:08:40][22m  transpile update started [2m...[22m 
+[2m[11:08:40][22m  transpile update finished [2min 80 ms[22m 
+[2m[11:08:40][22m  deeplinks update started [2m...[22m 
+[2m[11:08:40][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[11:08:40][22m  webpack update started [2m...[22m 
+[2m[11:08:51][22m  webpack update finished [2min 11.62 s[22m 
+[2m[11:08:51][22m  [1m[32mbuild finished[39m[22m [2min 11.72 s[22m 
+
+[33m[11:08:54]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:08:54]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:11:41][22m  build started [2m...[22m 
+[2m[11:11:41][22m  transpile update started [2m...[22m 
+[2m[11:11:41][22m  transpile update finished [2min 27 ms[22m 
+[2m[11:11:41][22m  deeplinks update started [2m...[22m 
+[2m[11:11:42][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[11:11:42][22m  webpack update started [2m...[22m 
+[2m[11:11:52][22m  webpack update finished [2min 10.58 s[22m 
+[2m[11:11:52][22m  [1m[32mbuild finished[39m[22m [2min 10.62 s[22m 
+
+[33m[11:11:54]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:11:54]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:12:20][22m  build started [2m...[22m 
+[2m[11:12:20][22m  transpile update started [2m...[22m 
+[2m[11:12:20][22m  transpile update finished [2min 55 ms[22m 
+[2m[11:12:20][22m  deeplinks update started [2m...[22m 
+[2m[11:12:20][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[11:12:20][22m  webpack update started [2m...[22m 
+[2m[11:12:32][22m  webpack update finished [2min 11.90 s[22m 
+[2m[11:12:32][22m  [1m[32mbuild finished[39m[22m [2min 11.97 s[22m 
+
+[33m[11:12:35]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:12:35]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:18:05][22m  build started [2m...[22m 
+[2m[11:18:05][22m  transpile update started [2m...[22m 
+[2m[11:18:05][22m  transpile update finished [2min 28 ms[22m 
+[2m[11:18:05][22m  deeplinks update started [2m...[22m 
+[2m[11:18:05][22m  deeplinks update finished [2min 17 ms[22m 
+[2m[11:18:05][22m  webpack update started [2m...[22m 
+[2m[11:18:16][22m  webpack update finished [2min 11.44 s[22m 
+[2m[11:18:16][22m  [1m[32mbuild finished[39m[22m [2min 11.49 s[22m 
+
+[33m[11:18:18]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:18:18]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:18:20][22m  build started [2m...[22m 
+[2m[11:18:20][22m  transpile update started [2m...[22m 
+[2m[11:18:20][22m  transpile update finished [2min 23 ms[22m 
+[2m[11:18:20][22m  deeplinks update started [2m...[22m 
+[2m[11:18:20][22m  deeplinks update finished [2min 4 ms[22m 
+[2m[11:18:20][22m  webpack update started [2m...[22m 
+[2m[11:18:23][22m  webpack update finished [2min 3.28 s[22m 
+[2m[11:18:23][22m  [1m[32mbuild finished[39m[22m [2min 3.31 s[22m 
+
+[33m[11:18:25]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[11:18:25]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:20:08][22m  build started [2m...[22m 
+[2m[11:20:08][22m  transpile update started [2m...[22m 
+[2m[11:20:08][22m  transpile update finished [2min 17 ms[22m 
+[2m[11:20:08][22m  deeplinks update started [2m...[22m 
+[2m[11:20:08][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[11:20:08][22m  webpack update started [2m...[22m 
+[2m[11:20:18][22m  webpack update finished [2min 9.76 s[22m 
+[2m[11:20:18][22m  [1m[32mbuild finished[39m[22m [2min 9.80 s[22m 
+
+[33m[11:20:21]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:20:43][22m  build started [2m...[22m 
+[2m[11:20:43][22m  transpile update started [2m...[22m 
+[2m[11:20:43][22m  transpile update finished [2min 38 ms[22m 
+[2m[11:20:43][22m  deeplinks update started [2m...[22m 
+[2m[11:20:43][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[11:20:43][22m  webpack update started [2m...[22m 
+[2m[11:20:54][22m  webpack update finished [2min 11.09 s[22m 
+[2m[11:20:54][22m  [1m[32mbuild finished[39m[22m [2min 11.14 s[22m 
+
+[33m[11:20:57]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:24:58][22m  build started [2m...[22m 
+[2m[11:24:58][22m  transpile update started [2m...[22m 
+[2m[11:24:58][22m  transpile update finished [2min 29 ms[22m 
+[2m[11:24:58][22m  deeplinks update started [2m...[22m 
+[2m[11:24:58][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[11:24:58][22m  webpack update started [2m...[22m 
+[2m[11:25:09][22m  webpack update finished [2min 11.20 s[22m 
+[2m[11:25:09][22m  [1m[32mbuild finished[39m[22m [2min 11.25 s[22m 
+
+[33m[11:25:12]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:25:40][22m  build started [2m...[22m 
+[2m[11:25:40][22m  transpile update started [2m...[22m 
+[2m[11:25:40][22m  transpile update finished [2min 55 ms[22m 
+[2m[11:25:40][22m  deeplinks update started [2m...[22m 
+[2m[11:25:40][22m  deeplinks update finished [2min 16 ms[22m 
+[2m[11:25:40][22m  webpack update started [2m...[22m 
+[2m[11:25:45][22m  webpack update finished [2min 4.66 s[22m 
+[2m[11:25:45][22m  [1m[32mbuild finished[39m[22m [2min 4.74 s[22m 
+
+[33m[11:25:47]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:30:53][22m  build started [2m...[22m 
+[2m[11:30:53][22m  transpile update started [2m...[22m 
+[2m[11:30:53][22m  transpile update finished [2min 22 ms[22m 
+[2m[11:30:53][22m  deeplinks update started [2m...[22m 
+[2m[11:30:53][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[11:30:53][22m  webpack update started [2m...[22m 
+[2m[11:31:04][22m  webpack update finished [2min 10.90 s[22m 
+[2m[11:31:04][22m  [1m[32mbuild finished[39m[22m [2min 10.93 s[22m 
+
+[33m[11:31:06]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:31:28][22m  build started [2m...[22m 
+[2m[11:31:28][22m  transpile update started [2m...[22m 
+[2m[11:31:28][22m  transpile update finished [2min 46 ms[22m 
+[2m[11:31:28][22m  deeplinks update started [2m...[22m 
+[2m[11:31:28][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[11:31:28][22m  webpack update started [2m...[22m 
+[2m[11:31:40][22m  webpack update finished [2min 12.01 s[22m 
+[2m[11:31:40][22m  [1m[32mbuild finished[39m[22m [2min 12.12 s[22m 
+
+[33m[11:31:42]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:31:56][22m  build started [2m...[22m 
+[2m[11:31:56][22m  transpile update started [2m...[22m 
+[2m[11:31:56][22m  transpile update finished [2min 35 ms[22m 
+[2m[11:31:56][22m  deeplinks update started [2m...[22m 
+[2m[11:31:56][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[11:31:56][22m  webpack update started [2m...[22m 
+[2m[11:32:04][22m  webpack update finished [2min 8.68 s[22m 
+[2m[11:32:04][22m  [1m[32mbuild finished[39m[22m [2min 8.73 s[22m 
+
+[33m[11:32:06]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:32:20][22m  build started [2m...[22m 
+[2m[11:32:20][22m  transpile update started [2m...[22m 
+[2m[11:32:21][22m  transpile update finished [2min 32 ms[22m 
+[2m[11:32:21][22m  deeplinks update started [2m...[22m 
+[2m[11:32:21][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[11:32:21][22m  webpack update started [2m...[22m 
+[2m[11:32:33][22m  webpack update finished [2min 12.35 s[22m 
+[2m[11:32:33][22m  [1m[32mbuild finished[39m[22m [2min 12.40 s[22m 
+
+[33m[11:32:35]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:32:46][22m  build started [2m...[22m 
+[2m[11:32:46][22m  transpile update started [2m...[22m 
+[2m[11:32:46][22m  transpile update finished [2min 43 ms[22m 
+[2m[11:32:46][22m  deeplinks update started [2m...[22m 
+[2m[11:32:46][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[11:32:46][22m  webpack update started [2m...[22m 
+[2m[11:32:55][22m  webpack update finished [2min 8.42 s[22m 
+[2m[11:32:55][22m  [1m[32mbuild finished[39m[22m [2min 8.48 s[22m 
+
+[33m[11:32:57]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:35:12][22m  build started [2m...[22m 
+[2m[11:35:12][22m  transpile update started [2m...[22m 
+[2m[11:35:12][22m  transpile update finished [2min 36 ms[22m 
+[2m[11:35:12][22m  deeplinks update started [2m...[22m 
+[2m[11:35:12][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[11:35:12][22m  webpack update started [2m...[22m 
+[2m[11:35:25][22m  webpack update finished [2min 13.83 s[22m 
+[2m[11:35:25][22m  [1m[32mbuild finished[39m[22m [2min 13.88 s[22m 
+
+[33m[11:35:28]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:54:58][22m  build started [2m...[22m 
+[2m[14:54:58][22m  transpile update started [2m...[22m 
+[2m[14:54:58][22m  transpile update finished [2min 66 ms[22m 
+[2m[14:54:58][22m  deeplinks update started [2m...[22m 
+[2m[14:54:58][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[14:54:58][22m  webpack update started [2m...[22m 
+[2m[14:55:10][22m  webpack update finished [2min 12.07 s[22m 
+[2m[14:55:10][22m  [1m[32mbuild finished[39m[22m [2min 12.16 s[22m 
+
+[33m[14:55:13]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:56:24][22m  build started [2m...[22m 
+[2m[14:56:24][22m  transpile update started [2m...[22m 
+[2m[14:56:24][22m  transpile update finished [2min 79 ms[22m 
+[2m[14:56:24][22m  deeplinks update started [2m...[22m 
+[2m[14:56:24][22m  deeplinks update finished [2min 11 ms[22m 
+[2m[14:56:24][22m  webpack update started [2m...[22m 
+[2m[14:56:36][22m  webpack update finished [2min 12.03 s[22m 
+[2m[14:56:36][22m  [1m[32mbuild finished[39m[22m [2min 12.13 s[22m 
+
+[33m[14:56:39]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:59:00][22m  build started [2m...[22m 
+[2m[14:59:00][22m  transpile update started [2m...[22m 
+[2m[14:59:00][22m  transpile update finished [2min 45 ms[22m 
+[2m[14:59:00][22m  deeplinks update started [2m...[22m 
+[2m[14:59:00][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[14:59:00][22m  webpack update started [2m...[22m 
+[2m[14:59:11][22m  webpack update finished [2min 10.57 s[22m 
+[2m[14:59:11][22m  [1m[32mbuild finished[39m[22m [2min 10.64 s[22m 
+
+[33m[14:59:14]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:00:30][22m  build started [2m...[22m 
+[2m[15:00:30][22m  transpile update started [2m...[22m 
+[2m[15:00:30][22m  transpile update finished [2min 53 ms[22m 
+[2m[15:00:30][22m  deeplinks update started [2m...[22m 
+[2m[15:00:31][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[15:00:31][22m  webpack update started [2m...[22m 
+[2m[15:00:43][22m  webpack update finished [2min 12.17 s[22m 
+[2m[15:00:43][22m  [1m[32mbuild finished[39m[22m [2min 12.31 s[22m 
+
+[33m[15:00:45]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:01:24][22m  build started [2m...[22m 
+[2m[15:01:24][22m  transpile update started [2m...[22m 
+[2m[15:01:24][22m  transpile update finished [2min 50 ms[22m 
+[2m[15:01:24][22m  deeplinks update started [2m...[22m 
+[2m[15:01:24][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[15:01:24][22m  webpack update started [2m...[22m 
+[31m[15:01:25]  typescript: src/pages/home/home.ts, line: 22 [39m
+            Cannot find name 'aaa'. 
+
+[2m      L21:  [22m    this.jsonp.get("http://localhost:8080/?callback=JSONP_CALLBACK").subscribe((res:Response)=>{let aaa=res});
+[2m      L22:  [22m    console.log([41ma[49m[41ma[49m[41ma[49m);
+
+[2m[15:01:34][22m  webpack update finished [2min 10.12 s[22m 
+[2m[15:01:34][22m  [1m[32mbuild finished[39m[22m [2min 10.20 s[22m 
+
+[33m[15:01:37]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:01:37]  tslint: src/pages/home/home.ts, line: 21 [39m
+            Unused variable: 'aaa' 
+
+[2m      L20:  [22mthis.city="城市";
+[2m      L21:  [22mthis.jsonp.get("http://localhost:8080/?callback=JSONP_CALLBACK").subscribe((res:Response)=>{let [41ma[49m[41ma[49m[41ma[49m=res});
+[2m      L22:  [22mconsole.log(aaa);
+
+[2m[15:01:52][22m  build started [2m...[22m 
+[2m[15:01:52][22m  transpile update started [2m...[22m 
+[2m[15:01:52][22m  transpile update finished [2min 36 ms[22m 
+[2m[15:01:52][22m  deeplinks update started [2m...[22m 
+[2m[15:01:52][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[15:01:52][22m  webpack update started [2m...[22m 
+[2m[15:02:04][22m  webpack update finished [2min 12.14 s[22m 
+[2m[15:02:04][22m  [1m[32mbuild finished[39m[22m [2min 12.20 s[22m 
+
+[33m[15:02:07]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:04:19][22m  build started [2m...[22m 
+[2m[15:04:19][22m  transpile update started [2m...[22m 
+[2m[15:04:19][22m  transpile update finished [2min 48 ms[22m 
+[2m[15:04:19][22m  deeplinks update started [2m...[22m 
+[2m[15:04:19][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[15:04:19][22m  webpack update started [2m...[22m 
+[2m[15:04:29][22m  webpack update finished [2min 10.41 s[22m 
+[2m[15:04:29][22m  [1m[32mbuild finished[39m[22m [2min 10.48 s[22m 
+
+[33m[15:04:32]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:08:24][22m  build started [2m...[22m 
+[2m[15:08:24][22m  template update started [2m...[22m 
+[2m[15:08:24][22m  template update finished [2min 64 ms[22m 
+[2m[15:08:24][22m  transpile update started [2m...[22m 
+[2m[15:08:24][22m  transpile update finished [2min 31 ms[22m 
+[2m[15:08:24][22m  deeplinks update started [2m...[22m 
+[2m[15:08:24][22m  deeplinks update finished [2min 11 ms[22m 
+[2m[15:08:24][22m  webpack update started [2m...[22m 
+[2m[15:08:36][22m  webpack update finished [2min 12.28 s[22m 
+[2m[15:08:36][22m  [1m[32mbuild finished[39m[22m [2min 12.39 s[22m 
+
+[33m[15:08:38]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:09:25][22m  build started [2m...[22m 
+[2m[15:09:25][22m  template update started [2m...[22m 
+[2m[15:09:25][22m  template update finished [2min 74 ms[22m 
+[2m[15:09:25][22m  [1m[32mbuild finished[39m[22m [2min 76 ms[22m 
+
+[2m[15:09:34][22m  build started [2m...[22m 
+[2m[15:09:34][22m  template update started [2m...[22m 
+[2m[15:09:34][22m  template update finished [2min 61 ms[22m 
+[2m[15:09:34][22m  [1m[32mbuild finished[39m[22m [2min 62 ms[22m 
+
+[2m[15:09:45][22m  build started [2m...[22m 
+[2m[15:09:45][22m  template update started [2m...[22m 
+[2m[15:09:45][22m  template update finished [2min 63 ms[22m 
+[2m[15:09:45][22m  [1m[32mbuild finished[39m[22m [2min 64 ms[22m 
+
+[2m[15:12:15][22m  build started [2m...[22m 
+[2m[15:12:15][22m  transpile update started [2m...[22m 
+[2m[15:12:15][22m  transpile update finished [2min 42 ms[22m 
+[2m[15:12:15][22m  deeplinks update started [2m...[22m 
+[2m[15:12:15][22m  deeplinks update finished [2min 16 ms[22m 
+[2m[15:12:15][22m  webpack update started [2m...[22m 
+[2m[15:12:25][22m  webpack update finished [2min 10.16 s[22m 
+[2m[15:12:25][22m  [1m[32mbuild finished[39m[22m [2min 10.23 s[22m 
+
+[33m[15:12:27]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:12:38][22m  build started [2m...[22m 
+[2m[15:12:38][22m  template update started [2m...[22m 
+[2m[15:12:38][22m  template update finished [2min 48 ms[22m 
+[2m[15:12:38][22m  [1m[32mbuild finished[39m[22m [2min 49 ms[22m 
+
+[2m[15:13:27][22m  build started [2m...[22m 
+[2m[15:13:27][22m  transpile update started [2m...[22m 
+[2m[15:13:27][22m  transpile update finished [2min 37 ms[22m 
+[2m[15:13:27][22m  deeplinks update started [2m...[22m 
+[2m[15:13:27][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[15:13:27][22m  webpack update started [2m...[22m 
+[2m[15:13:41][22m  webpack update finished [2min 14.54 s[22m 
+[2m[15:13:41][22m  [1m[32mbuild finished[39m[22m [2min 14.60 s[22m 
+
+[33m[15:13:44]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:14:00][22m  build started [2m...[22m 
+[2m[15:14:00][22m  transpile update started [2m...[22m 
+[2m[15:14:00][22m  transpile update finished [2min 35 ms[22m 
+[2m[15:14:00][22m  deeplinks update started [2m...[22m 
+[2m[15:14:00][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[15:14:00][22m  webpack update started [2m...[22m 
+[2m[15:14:09][22m  webpack update finished [2min 8.85 s[22m 
+[2m[15:14:09][22m  [1m[32mbuild finished[39m[22m [2min 8.90 s[22m 
+
+[33m[15:14:11]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:14:55][22m  build started [2m...[22m 
+[2m[15:14:55][22m  transpile update started [2m...[22m 
+[2m[15:14:55][22m  transpile update finished [2min 60 ms[22m 
+[2m[15:14:55][22m  deeplinks update started [2m...[22m 
+[2m[15:14:55][22m  deeplinks update finished [2min 17 ms[22m 
+[2m[15:14:55][22m  webpack update started [2m...[22m 
+[2m[15:15:10][22m  webpack update finished [2min 14.34 s[22m 
+[2m[15:15:10][22m  [1m[32mbuild finished[39m[22m [2min 14.43 s[22m 
+
+[33m[15:15:12]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:15:50][22m  build started [2m...[22m 
+[2m[15:15:50][22m  transpile update started [2m...[22m 
+[2m[15:15:50][22m  transpile update finished [2min 56 ms[22m 
+[2m[15:15:50][22m  deeplinks update started [2m...[22m 
+[2m[15:15:50][22m  deeplinks update finished [2min 16 ms[22m 
+[2m[15:15:50][22m  webpack update started [2m...[22m 
+[2m[15:16:01][22m  webpack update finished [2min 11.11 s[22m 
+[2m[15:16:01][22m  [1m[32mbuild finished[39m[22m [2min 11.19 s[22m 
+
+[33m[15:16:03]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:17:39][22m  build started [2m...[22m 
+[2m[15:17:39][22m  template update started [2m...[22m 
+[2m[15:17:39][22m  template update finished [2min 71 ms[22m 
+[2m[15:17:39][22m  [1m[32mbuild finished[39m[22m [2min 72 ms[22m 
+
+[2m[15:19:15][22m  build started [2m...[22m 
+[2m[15:19:15][22m  transpile update started [2m...[22m 
+[2m[15:19:15][22m  transpile update finished [2min 42 ms[22m 
+[2m[15:19:15][22m  deeplinks update started [2m...[22m 
+[2m[15:19:15][22m  deeplinks update finished [2min 11 ms[22m 
+[2m[15:19:15][22m  webpack update started [2m...[22m 
+[2m[15:19:27][22m  webpack update finished [2min 11.89 s[22m 
+[2m[15:19:27][22m  [1m[32mbuild finished[39m[22m [2min 12.02 s[22m 
+
+[33m[15:19:29]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:19:39][22m  build started [2m...[22m 
+[2m[15:19:39][22m  template update started [2m...[22m 
+[2m[15:19:39][22m  template update finished [2min 53 ms[22m 
+[2m[15:19:39][22m  [1m[32mbuild finished[39m[22m [2min 54 ms[22m 
+
+[2m[15:20:20][22m  build started [2m...[22m 
+[2m[15:20:20][22m  transpile update started [2m...[22m 
+[2m[15:20:20][22m  transpile update finished [2min 29 ms[22m 
+[2m[15:20:20][22m  deeplinks update started [2m...[22m 
+[2m[15:20:20][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[15:20:20][22m  webpack update started [2m...[22m 
+[2m[15:20:31][22m  webpack update finished [2min 11.38 s[22m 
+[2m[15:20:31][22m  [1m[32mbuild finished[39m[22m [2min 11.44 s[22m 
+
+[33m[15:20:34]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:20:40][22m  build started [2m...[22m 
+[2m[15:20:40][22m  transpile update started [2m...[22m 
+[2m[15:20:40][22m  transpile update finished [2min 46 ms[22m 
+[2m[15:20:40][22m  deeplinks update started [2m...[22m 
+[2m[15:20:40][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[15:20:40][22m  webpack update started [2m...[22m 
+[2m[15:20:52][22m  webpack update finished [2min 12.39 s[22m 
+[2m[15:20:52][22m  [1m[32mbuild finished[39m[22m [2min 12.45 s[22m 
+
+[33m[15:20:55]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:21:20][22m  build started [2m...[22m 
+[2m[15:21:20][22m  transpile update started [2m...[22m 
+[2m[15:21:21][22m  transpile update finished [2min 38 ms[22m 
+[2m[15:21:21][22m  deeplinks update started [2m...[22m 
+[2m[15:21:21][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[15:21:21][22m  webpack update started [2m...[22m 
+[2m[15:21:29][22m  webpack update finished [2min 8.71 s[22m 
+[2m[15:21:29][22m  [1m[32mbuild finished[39m[22m [2min 8.77 s[22m 
+
+[33m[15:21:32]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:22:09][22m  build started [2m...[22m 
+[2m[15:22:09][22m  transpile update started [2m...[22m 
+[2m[15:22:09][22m  transpile update finished [2min 50 ms[22m 
+[2m[15:22:09][22m  deeplinks update started [2m...[22m 
+[2m[15:22:09][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[15:22:09][22m  webpack update started [2m...[22m 
+[2m[15:22:22][22m  webpack update finished [2min 12.70 s[22m 
+[2m[15:22:22][22m  [1m[32mbuild finished[39m[22m [2min 12.77 s[22m 
+
+[33m[15:22:24]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:22:55][22m  build started [2m...[22m 
+[2m[15:22:55][22m  transpile update started [2m...[22m 
+[2m[15:22:55][22m  transpile update finished [2min 46 ms[22m 
+[2m[15:22:55][22m  deeplinks update started [2m...[22m 
+[2m[15:22:55][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[15:22:55][22m  webpack update started [2m...[22m 
+[2m[15:23:07][22m  webpack update finished [2min 11.55 s[22m 
+[2m[15:23:07][22m  [1m[32mbuild finished[39m[22m [2min 11.62 s[22m 
+
+[33m[15:23:09]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:23:54][22m  build started [2m...[22m 
+[2m[15:23:54][22m  transpile update started [2m...[22m 
+[2m[15:23:54][22m  transpile update finished [2min 29 ms[22m 
+[2m[15:23:54][22m  deeplinks update started [2m...[22m 
+[2m[15:23:54][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[15:23:54][22m  webpack update started [2m...[22m 
+[2m[15:24:07][22m  webpack update finished [2min 12.91 s[22m 
+[2m[15:24:07][22m  [1m[32mbuild finished[39m[22m [2min 13.01 s[22m 
+
+[33m[15:24:09]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:25:46][22m  build started [2m...[22m 
+[2m[15:25:46][22m  transpile update started [2m...[22m 
+[2m[15:25:46][22m  transpile update finished [2min 42 ms[22m 
+[2m[15:25:46][22m  deeplinks update started [2m...[22m 
+[2m[15:25:46][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[15:25:46][22m  webpack update started [2m...[22m 
+[2m[15:25:57][22m  webpack update finished [2min 10.82 s[22m 
+[2m[15:25:57][22m  [1m[32mbuild finished[39m[22m [2min 10.88 s[22m 
+
+[33m[15:26:00]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:28:05][22m  build started [2m...[22m 
+[2m[15:28:05][22m  transpile update started [2m...[22m 
+[2m[15:28:05][22m  transpile update finished [2min 54 ms[22m 
+[2m[15:28:05][22m  deeplinks update started [2m...[22m 
+[2m[15:28:05][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[15:28:05][22m  webpack update started [2m...[22m 
+[2m[15:28:18][22m  webpack update finished [2min 12.69 s[22m 
+[2m[15:28:18][22m  [1m[32mbuild finished[39m[22m [2min 12.76 s[22m 
+
+[33m[15:28:20]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:28:20]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:28:31][22m  build started [2m...[22m 
+[2m[15:28:31][22m  transpile update started [2m...[22m 
+[2m[15:28:31][22m  transpile update finished [2min 35 ms[22m 
+[2m[15:28:31][22m  deeplinks update started [2m...[22m 
+[2m[15:28:31][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[15:28:31][22m  webpack update started [2m...[22m 
+[2m[15:28:39][22m  webpack update finished [2min 8.76 s[22m 
+[2m[15:28:39][22m  [1m[32mbuild finished[39m[22m [2min 8.82 s[22m 
+
+[33m[15:28:42]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:28:42]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:44:02][22m  build started [2m...[22m 
+[2m[15:44:02][22m  transpile update started [2m...[22m 
+[2m[15:44:02][22m  transpile update finished [2min 57 ms[22m 
+[2m[15:44:02][22m  deeplinks update started [2m...[22m 
+[2m[15:44:02][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[15:44:02][22m  webpack update started [2m...[22m 
+[2m[15:44:16][22m  webpack update finished [2min 13.46 s[22m 
+[2m[15:44:16][22m  [1m[32mbuild finished[39m[22m [2min 13.54 s[22m 
+
+[33m[15:44:18]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:44:18]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:46:10][22m  build started [2m...[22m 
+[2m[15:46:10][22m  transpile update started [2m...[22m 
+[2m[15:46:10][22m  transpile update finished [2min 64 ms[22m 
+[2m[15:46:10][22m  deeplinks update started [2m...[22m 
+[2m[15:46:10][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[15:46:10][22m  webpack update started [2m...[22m 
+[31m[15:46:12]  typescript: src/pages/home/home.ts, line: 24 [39m
+            Property '_body' does not exist on type 'Response'. 
+
+[2m      L23:  [22m//console.log("response.json(): "+this.res);
+[2m      L24:  [22mconsole.log(res.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m);
+[2m      L25:  [22mconsole.log(res.headers);
+
+[2m[15:46:22][22m  webpack update finished [2min 11.64 s[22m 
+[2m[15:46:22][22m  [1m[32mbuild finished[39m[22m [2min 11.73 s[22m 
+
+[33m[15:46:25]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:46:25]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:46:50][22m  build started [2m...[22m 
+[2m[15:46:50][22m  transpile update started [2m...[22m 
+[2m[15:46:50][22m  transpile update finished [2min 43 ms[22m 
+[2m[15:46:50][22m  deeplinks update started [2m...[22m 
+[2m[15:46:50][22m  deeplinks update finished [2min 20 ms[22m 
+[2m[15:46:50][22m  webpack update started [2m...[22m 
+[31m[15:46:52]  typescript: src/pages/home/home.ts, line: 24 [39m
+            Property '_body' does not exist on type 'Response'. 
+
+[2m      L23:  [22m//console.log("response.json(): "+this.res);
+[2m      L24:  [22mconsole.log(res.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m.text);
+[2m      L25:  [22mconsole.log(res.headers);
+
+[2m[15:47:03][22m  webpack update finished [2min 12.38 s[22m 
+[2m[15:47:03][22m  [1m[32mbuild finished[39m[22m [2min 12.45 s[22m 
+
+[33m[15:47:05]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:47:05]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:49:14][22m  build started [2m...[22m 
+[2m[15:49:14][22m  transpile update started [2m...[22m 
+[2m[15:49:14][22m  transpile update finished [2min 30 ms[22m 
+[2m[15:49:14][22m  deeplinks update started [2m...[22m 
+[2m[15:49:14][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[15:49:14][22m  webpack update started [2m...[22m 
+[31m[15:49:16]  typescript: src/pages/home/home.ts, line: 24 [39m
+            Cannot find name '_body'. 
+
+[2m      L23:  [22m//console.log("response.json(): "+this.res);
+[2m      L24:  [22mconsole.log(res[[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m]);
+[2m      L25:  [22mconsole.log(res.headers);
+
+[2m[15:49:25][22m  webpack update finished [2min 11.20 s[22m 
+[2m[15:49:25][22m  [1m[32mbuild finished[39m[22m [2min 11.24 s[22m 
+
+[33m[15:49:28]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:49:28]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:50:01][22m  build started [2m...[22m 
+[2m[15:50:01][22m  transpile update started [2m...[22m 
+[2m[15:50:02][22m  transpile update finished [2min 33 ms[22m 
+[2m[15:50:02][22m  deeplinks update started [2m...[22m 
+[2m[15:50:02][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[15:50:02][22m  webpack update started [2m...[22m 
+[31m[15:50:03]  typescript: src/pages/home/home.ts, line: 24 [39m
+            Property '_body' does not exist on type '() => any'. 
+
+[2m      L23:  [22m//console.log("response.json(): "+this.res);
+[2m      L24:  [22mconsole.log(res.json.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m);
+[2m      L25:  [22mconsole.log(res.headers);
+
+[2m[15:50:14][22m  webpack update finished [2min 12.38 s[22m 
+[2m[15:50:14][22m  [1m[32mbuild finished[39m[22m [2min 12.43 s[22m 
+
+[33m[15:50:17]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:50:17]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:53:12][22m  build started [2m...[22m 
+[2m[15:53:12][22m  transpile update started [2m...[22m 
+[2m[15:53:12][22m  transpile update finished [2min 34 ms[22m 
+[2m[15:53:12][22m  deeplinks update started [2m...[22m 
+[2m[15:53:12][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[15:53:12][22m  webpack update started [2m...[22m 
+[2m[15:53:23][22m  webpack update finished [2min 11.63 s[22m 
+[2m[15:53:23][22m  [1m[32mbuild finished[39m[22m [2min 11.68 s[22m 
+
+[33m[15:53:26]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:53:55][22m  build started [2m...[22m 
+[2m[15:53:55][22m  transpile update started [2m...[22m 
+[2m[15:53:55][22m  transpile update finished [2min 44 ms[22m 
+[2m[15:53:55][22m  deeplinks update started [2m...[22m 
+[2m[15:53:55][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[15:53:55][22m  webpack update started [2m...[22m 
+[2m[15:54:08][22m  webpack update finished [2min 12.60 s[22m 
+[2m[15:54:08][22m  [1m[32mbuild finished[39m[22m [2min 12.67 s[22m 
+
+[33m[15:54:11]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:56:02][22m  build started [2m...[22m 
+[2m[15:56:02][22m  transpile update started [2m...[22m 
+[2m[15:56:02][22m  transpile update finished [2min 30 ms[22m 
+[2m[15:56:02][22m  deeplinks update started [2m...[22m 
+[2m[15:56:03][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[15:56:03][22m  webpack update started [2m...[22m 
+[2m[15:56:14][22m  webpack update finished [2min 11.20 s[22m 
+[2m[15:56:14][22m  [1m[32mbuild finished[39m[22m [2min 11.25 s[22m 
+
+[33m[15:56:17]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:57:20][22m  build started [2m...[22m 
+[2m[15:57:20][22m  transpile update started [2m...[22m 
+[2m[15:57:20][22m  transpile update finished [2min 41 ms[22m 
+[2m[15:57:20][22m  deeplinks update started [2m...[22m 
+[2m[15:57:20][22m  deeplinks update finished [2min 16 ms[22m 
+[2m[15:57:20][22m  webpack update started [2m...[22m 
+[31m[15:57:22]  typescript: src/pages/home/home.ts, line: 33 [39m
+            Property 'text' does not exist on type '() => any'. 
+
+[2m      L32:  [22mlet body = res.json();
+[2m      L33:  [22mconsole.log(res.json.[41mt[49m[41me[49m[41mx[49m[41mt[49m);
+[2m      L34:  [22mreturn body.data || { };
+
+[2m[15:57:33][22m  webpack update finished [2min 12.99 s[22m 
+[2m[15:57:33][22m  [1m[32mbuild finished[39m[22m [2min 13.07 s[22m 
+
+[33m[15:57:36]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:57:50][22m  build started [2m...[22m 
+[2m[15:57:50][22m  transpile update started [2m...[22m 
+[2m[15:57:50][22m  transpile update finished [2min 32 ms[22m 
+[2m[15:57:50][22m  deeplinks update started [2m...[22m 
+[2m[15:57:50][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[15:57:50][22m  webpack update started [2m...[22m 
+[31m[15:57:52]  typescript: src/pages/home/home.ts, line: 33 [39m
+            Property '_body' does not exist on type 'Response'. 
+
+[2m      L32:  [22mlet body = res.json();
+[2m      L33:  [22mconsole.log(res.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m.text);
+[2m      L34:  [22mreturn body.data || { };
+
+[2m[15:58:00][22m  webpack update finished [2min 9.66 s[22m 
+[2m[15:58:00][22m  [1m[32mbuild finished[39m[22m [2min 9.71 s[22m 
+
+[33m[15:58:03]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:59:15][22m  build started [2m...[22m 
+[2m[15:59:15][22m  transpile update started [2m...[22m 
+[2m[15:59:15][22m  transpile update finished [2min 27 ms[22m 
+[2m[15:59:15][22m  deeplinks update started [2m...[22m 
+[2m[15:59:15][22m  deeplinks update finished [2min 28 ms[22m 
+[2m[15:59:15][22m  webpack update started [2m...[22m 
+[31m[15:59:17]  typescript: src/pages/home/home.ts, line: 24 [39m
+            Property '_body' does not exist on type 'Response'. 
+
+[2m      L23:  [22m//console.log("response.json(): "+this.res);
+[2m      L24:  [22mthis.res=res.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m.text;
+[2m      L25:  [22mconsole.log(res._body.text);
+
+[31m[15:59:17]  typescript: src/pages/home/home.ts, line: 25 [39m
+            Property '_body' does not exist on type 'Response'. 
+
+[2m      L24:  [22mthis.res=res._body.text;
+[2m      L25:  [22mconsole.log(res.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m.text);
+
+[2m[15:59:29][22m  webpack update finished [2min 14.24 s[22m 
+[2m[15:59:29][22m  [1m[32mbuild finished[39m[22m [2min 14.30 s[22m 
+
+[33m[15:59:31]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[15:59:31]  tslint: src/pages/home/home.ts, line: 32 [39m
+            Unused method: 'extractData' 
+
+[2m      L32:  [22mprivate [41me[49m[41mx[49m[41mt[49m[41mr[49m[41ma[49m[41mc[49m[41mt[49m[41mD[49m[41ma[49m[41mt[49m[41ma[49m(res: Response) {
+[2m      L33:  [22m  let body = res.json();
+
+[2m[16:00:17][22m  build started [2m...[22m 
+[2m[16:00:17][22m  transpile update started [2m...[22m 
+[2m[16:00:17][22m  transpile update finished [2min 40 ms[22m 
+[2m[16:00:17][22m  deeplinks update started [2m...[22m 
+[2m[16:00:17][22m  deeplinks update finished [2min 18 ms[22m 
+[2m[16:00:17][22m  webpack update started [2m...[22m 
+[31m[16:00:18]  typescript: src/pages/home/home.ts, line: 24 [39m
+            Property '_body' does not exist on type 'Response'. 
+
+[2m      L23:  [22m//console.log("response.json(): "+this.res);
+[2m      L24:  [22mthis.res=res.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m.text;
+[2m      L25:  [22mconsole.log(res._body.text);
+
+[31m[16:00:18]  typescript: src/pages/home/home.ts, line: 25 [39m
+            Property '_body' does not exist on type 'Response'. 
+
+[2m      L24:  [22mthis.res=res._body.text;
+[2m      L25:  [22mconsole.log(res.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m.text);
+
+[2m[16:00:28][22m  webpack update finished [2min 11.49 s[22m 
+[2m[16:00:28][22m  [1m[32mbuild finished[39m[22m [2min 11.56 s[22m 
+
+[33m[16:00:30]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:00:30]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:06:25][22m  build started [2m...[22m 
+[2m[16:06:25][22m  transpile update started [2m...[22m 
+[2m[16:06:25][22m  transpile update finished [2min 41 ms[22m 
+[2m[16:06:25][22m  deeplinks update started [2m...[22m 
+[2m[16:06:25][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[16:06:25][22m  webpack update started [2m...[22m 
+[2m[16:06:37][22m  webpack update finished [2min 12.22 s[22m 
+[2m[16:06:37][22m  [1m[32mbuild finished[39m[22m [2min 12.28 s[22m 
+
+[33m[16:06:39]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:06:39]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:31:04][22m  build started [2m...[22m 
+[2m[16:31:04][22m  transpile update started [2m...[22m 
+[2m[16:31:04][22m  transpile update finished [2min 47 ms[22m 
+[2m[16:31:04][22m  deeplinks update started [2m...[22m 
+[2m[16:31:04][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[16:31:04][22m  webpack update started [2m...[22m 
+[2m[16:31:15][22m  webpack update finished [2min 11.09 s[22m 
+[2m[16:31:15][22m  [1m[32mbuild finished[39m[22m [2min 11.15 s[22m 
+
+[33m[16:31:18]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[16:31:18]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:31:18]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:31:18]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:31:39][22m  build started [2m...[22m 
+[2m[16:31:39][22m  transpile update started [2m...[22m 
+[2m[16:31:39][22m  transpile update finished [2min 35 ms[22m 
+[2m[16:31:39][22m  deeplinks update started [2m...[22m 
+[2m[16:31:39][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[16:31:39][22m  webpack update started [2m...[22m 
+[2m[16:31:52][22m  webpack update finished [2min 13.15 s[22m 
+[2m[16:31:52][22m  [1m[32mbuild finished[39m[22m [2min 13.21 s[22m 
+
+[33m[16:31:55]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[16:31:55]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:31:55]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:31:55]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:32:32][22m  build started [2m...[22m 
+[2m[16:32:32][22m  transpile update started [2m...[22m 
+[2m[16:32:32][22m  transpile update finished [2min 27 ms[22m 
+[2m[16:32:32][22m  deeplinks update started [2m...[22m 
+[2m[16:32:32][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[16:32:32][22m  webpack update started [2m...[22m 
+[2m[16:32:42][22m  webpack update finished [2min 9.76 s[22m 
+[2m[16:32:42][22m  [1m[32mbuild finished[39m[22m [2min 9.81 s[22m 
+
+[33m[16:32:45]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[16:32:45]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:32:45]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:32:45]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:42:23][22m  build started [2m...[22m 
+[2m[16:42:23][22m  transpile update started [2m...[22m 
+[2m[16:42:23][22m  transpile update finished [2min 27 ms[22m 
+[2m[16:42:23][22m  deeplinks update started [2m...[22m 
+[2m[16:42:23][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[16:42:23][22m  webpack update started [2m...[22m 
+[2m[16:42:36][22m  webpack update finished [2min 12.28 s[22m 
+[2m[16:42:36][22m  [1m[32mbuild finished[39m[22m [2min 12.32 s[22m 
+
+[33m[16:42:38]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[16:42:38]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:42:38]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:42:38]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:45:05][22m  build started [2m...[22m 
+[2m[16:45:05][22m  transpile update started [2m...[22m 
+[2m[16:45:05][22m  transpile update finished [2min 26 ms[22m 
+[2m[16:45:05][22m  deeplinks update started [2m...[22m 
+[2m[16:45:05][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[16:45:05][22m  webpack update started [2m...[22m 
+[31m[16:45:07]  typescript: src/pages/home/home.ts, line: 23 [39m
+            Property '_body' does not exist on type 'Response'. 
+
+[2m      L23:  [22m console.log(res.[41m_[49m[41mb[49m[41mo[49m[41md[49m[41my[49m.text);
+
+[2m[16:45:16][22m  webpack update finished [2min 11.40 s[22m 
+[2m[16:45:16][22m  [1m[32mbuild finished[39m[22m [2min 11.44 s[22m 
+
+[33m[16:45:19]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[16:45:19]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:45:19]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[16:45:19]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[17:15:12][22m  build started [2m...[22m 
+[2m[17:15:12][22m  transpile update started [2m...[22m 
+[2m[17:15:12][22m  transpile update finished [2min 26 ms[22m 
+[2m[17:15:12][22m  deeplinks update started [2m...[22m 
+[2m[17:15:12][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[17:15:12][22m  webpack update started [2m...[22m 
+[2m[17:15:26][22m  webpack update finished [2min 14.16 s[22m 
+[2m[17:15:26][22m  [1m[32mbuild finished[39m[22m [2min 14.20 s[22m 
+
+[33m[17:15:29]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[17:15:29]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:15:29]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:15:29]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[17:17:13][22m  build started [2m...[22m 
+[2m[17:17:13][22m  transpile update started [2m...[22m 
+[2m[17:17:13][22m  transpile update finished [2min 41 ms[22m 
+[2m[17:17:13][22m  deeplinks update started [2m...[22m 
+[2m[17:17:13][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[17:17:13][22m  webpack update started [2m...[22m 
+[2m[17:17:24][22m  webpack update finished [2min 11.54 s[22m 
+[2m[17:17:24][22m  [1m[32mbuild finished[39m[22m [2min 11.60 s[22m 
+
+[33m[17:17:27]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[17:17:27]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:17:27]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:17:27]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[17:18:37][22m  build started [2m...[22m 
+[2m[17:18:37][22m  transpile update started [2m...[22m 
+[2m[17:18:37][22m  transpile update finished [2min 25 ms[22m 
+[2m[17:18:37][22m  deeplinks update started [2m...[22m 
+[2m[17:18:37][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[17:18:37][22m  webpack update started [2m...[22m 
+[2m[17:18:51][22m  webpack update finished [2min 14.36 s[22m 
+[2m[17:18:51][22m  [1m[32mbuild finished[39m[22m [2min 14.41 s[22m 
+
+[33m[17:18:53]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[17:18:53]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:18:53]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[17:19:04][22m  build started [2m...[22m 
+[2m[17:19:04][22m  transpile update started [2m...[22m 
+[2m[17:19:04][22m  transpile update finished [2min 39 ms[22m 
+[2m[17:19:04][22m  deeplinks update started [2m...[22m 
+[2m[17:19:04][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[17:19:04][22m  webpack update started [2m...[22m 
+[2m[17:19:13][22m  webpack update finished [2min 8.72 s[22m 
+[2m[17:19:13][22m  [1m[32mbuild finished[39m[22m [2min 8.78 s[22m 
+
+[33m[17:19:15]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[17:19:15]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:19:15]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[17:24:03][22m  build started [2m...[22m 
+[2m[17:24:03][22m  transpile update started [2m...[22m 
+[2m[17:24:03][22m  transpile update finished [2min 25 ms[22m 
+[2m[17:24:03][22m  deeplinks update started [2m...[22m 
+[2m[17:24:03][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[17:24:03][22m  webpack update started [2m...[22m 
+[2m[17:24:16][22m  webpack update finished [2min 12.69 s[22m 
+[2m[17:24:16][22m  [1m[32mbuild finished[39m[22m [2min 12.76 s[22m 
+
+[33m[17:24:19]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[17:24:19]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:24:19]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:24:19]  tslint: src/pages/home/home.ts, line: 25 [39m
+            Unused method: 'extractData' 
+
+[2m      L25:  [22m  private [41me[49m[41mx[49m[41mt[49m[41mr[49m[41ma[49m[41mc[49m[41mt[49m[41mD[49m[41ma[49m[41mt[49m[41ma[49m(res: Response) {
+[2m      L26:  [22m    let body = res.json();
+
+[2m[17:25:03][22m  build started [2m...[22m 
+[2m[17:25:03][22m  transpile update started [2m...[22m 
+[2m[17:25:03][22m  transpile update finished [2min 48 ms[22m 
+[2m[17:25:03][22m  deeplinks update started [2m...[22m 
+[2m[17:25:03][22m  deeplinks update finished [2min 15 ms[22m 
+[2m[17:25:03][22m  webpack update started [2m...[22m 
+[2m[17:25:14][22m  webpack update finished [2min 11.13 s[22m 
+[2m[17:25:14][22m  [1m[32mbuild finished[39m[22m [2min 11.21 s[22m 
+
+[33m[17:25:17]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[17:25:17]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:25:17]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:25:17]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[17:25:21][22m  build started [2m...[22m 
+[2m[17:25:21][22m  transpile update started [2m...[22m 
+[2m[17:25:21][22m  transpile update finished [2min 27 ms[22m 
+[2m[17:25:21][22m  deeplinks update started [2m...[22m 
+[2m[17:25:21][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[17:25:21][22m  webpack update started [2m...[22m 
+[2m[17:25:33][22m  webpack update finished [2min 12.31 s[22m 
+[2m[17:25:33][22m  [1m[32mbuild finished[39m[22m [2min 12.36 s[22m 
+
+[33m[17:25:36]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[17:25:36]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:25:36]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:25:36]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[2m[17:30:36][22m  build started [2m...[22m 
+[2m[17:30:36][22m  transpile update started [2m...[22m 
+[2m[17:30:36][22m  transpile update finished [2min 21 ms[22m 
+[2m[17:30:36][22m  deeplinks update started [2m...[22m 
+[2m[17:30:36][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[17:30:36][22m  webpack update started [2m...[22m 
+[2m[17:30:47][22m  webpack update finished [2min 10.48 s[22m 
+[2m[17:30:47][22m  [1m[32mbuild finished[39m[22m [2min 10.52 s[22m 
+
+[33m[17:30:49]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,Headers } from '@angular/http';
+
+[33m[17:30:49]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Http' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { [41mH[49m[41mt[49m[41mt[49m[41mp[49m, Response,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:30:49]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Response' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, [41mR[49m[41me[49m[41ms[49m[41mp[49m[41mo[49m[41mn[49m[41ms[49m[41me[49m,Jsonp,Headers } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
+[33m[17:30:49]  tslint: src/pages/home/home.ts, line: 3 [39m
+            Unused import: 'Headers' 
+
+[2m       L2:  [22mimport { NavController } from 'ionic-angular';
+[2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
+[2m       L4:  [22mimport 'rxjs/add/operator/map';
+
