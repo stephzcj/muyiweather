@@ -1,0 +1,69 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle icon-only>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title class="title">{{city}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="home">
+  <div class="now">
+    <div style="margin-bottom:0px;font-size:230%;">26℃</div>
+    <div style="margin-top:0px;">多云</div>
+  </div>
+
+  <ion-card class="card">
+    <ion-card-content>
+    <ion-card-title class="card-title">
+      3-day forecast
+    </ion-card-title>
+    <ion-grid>
+      <ion-row *ngFor="let item of forecasts"  style="text-align:center;">
+           <ion-col col-4><div>{{item.date}}</div></ion-col>
+           <ion-col col-3><div>{{item.weather}}</div></ion-col>
+           <ion-col><div>{{item.maxTemp}}</div></ion-col>
+           <ion-col><div>{{item.minTemp}}</div></ion-col>
+      </ion-row>
+    </ion-grid>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card class="card">
+    <ion-card-content>
+    <ion-card-title class="card-title">
+      Air Quaility
+    </ion-card-title>
+      <ion-row  style="text-align:center;font-size:350%">
+        <ion-col col-6><div>23</div></ion-col>
+        <ion-col col-6><div>33</div></ion-col>
+      </ion-row>
+      <ion-row  style="text-align:center;">
+        <ion-col col-6><div>AQI</div></ion-col>
+        <ion-col col-6><div>PM25</div></ion-col>
+      </ion-row>
+    </ion-card-content>
+  </ion-card>
+
+  <ion-card class="card">
+    <ion-card-content>
+    <ion-card-title class="card-title">
+      Life Sueggestion
+    </ion-card-title>
+      <ion-row style="font-size:110%">
+         Sports
+      </ion-row>
+      <ion-row>
+        Sports ........
+      </ion-row>
+      <ion-row style="font-size:110%">
+         Heading out
+      </ion-row>
+      <ion-row>
+        Heading out........
+      </ion-row>
+    </ion-card-content>
+  </ion-card>
+
+  
+</ion-content>
