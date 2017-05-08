@@ -4,6 +4,7 @@ import { Http, Response,Jsonp,Headers } from '@angular/http';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/toPromise';
 import {Onedaycast} from './onedaycast';
+import {WeatherDataService} from '../dataservice/weatherdata.service'
 @Component({
   selector: 'page-home',
   templateUrl: 'home.html'
@@ -13,13 +14,12 @@ export class HomePage implements OnInit{
   forecasts:Onedaycast[];
   res:any;
   city:String;
-  constructor(private jsonp:Jsonp) {
+  constructor(private jsonp:Jsonp,private dataservice:WeatherDataService) {
       }
   ngOnInit(): void {
     this.forecasts=this.getForecasts();
     this.city="城市";
-    this.jsonp.get("http://localhost:8080/?callback=JSONP_CALLBACK").map(res => res.json())
-  .subscribe(data => console.log(data));
+    this.dataservice.getInfoByUrl("/").subscribe(data => console.log(data));
     
 }
 
