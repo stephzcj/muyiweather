@@ -1,13 +1,19 @@
 .title{
+    text-align: center; 
+    vertical-align:center;
+}
+.time{
+    text-align: right;
+}
+.nav-bar{
     text-align: center;
-    
 }
 // .home{
 //     background-image: url(http://cn.bing.com/az/hprichbg/rb/NavagioBeach_ZH-CN8854639142_1920x1080.jpg);
 // }
 .card{
-    background-color: rgba(0,0,0,0.1);
-    text-align: center;
+    background-color: rgba(0,0,0,0.25);
+    text-align: left;
 }
 .now{
     text-align: right;
@@ -17,4 +23,8 @@
 .card-title{
     font-family:Consolas;
     text-align: left;
+}
+.suggestion-title{
+    font-size:140%;
+    text-align: center;
 }

@@ -5388,3 +5388,1383 @@
 [2m       L3:  [22mimport { Http, Response,Jsonp,[41mH[49m[41me[49m[41ma[49m[41md[49m[41me[49m[41mr[49m[41ms[49m } from '@angular/http';
 [2m       L4:  [22mimport 'rxjs/add/operator/map';
 
+[2m[09:53:34][22m  build started [2m...[22m 
+[2m[09:53:34][22m  transpile update started [2m...[22m 
+[2m[09:53:34][22m  transpile update finished [2min 277 ms[22m 
+[2m[09:53:34][22m  deeplinks update started [2m...[22m 
+[2m[09:53:34][22m  deeplinks update finished [2min 27 ms[22m 
+[2m[09:53:34][22m  webpack update started [2m...[22m 
+[2m[09:53:43][22m  webpack update finished [2min 8.93 s[22m 
+[2m[09:53:43][22m  [1m[32mbuild finished[39m[22m [2min 9.26 s[22m 
+
+[33m[09:53:45]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[09:54:34][22m  build started [2m...[22m 
+[2m[09:54:34][22m  transpile update started [2m...[22m 
+[2m[09:54:34][22m  transpile update finished [2min 55 ms[22m 
+[2m[09:54:34][22m  deeplinks update started [2m...[22m 
+[2m[09:54:34][22m  deeplinks update finished [2min 17 ms[22m 
+[2m[09:54:34][22m  webpack update started [2m...[22m 
+[2m[09:54:40][22m  webpack update finished [2min 6.51 s[22m 
+[2m[09:54:40][22m  [1m[32mbuild finished[39m[22m [2min 6.60 s[22m 
+
+[2m[10:07:24][22m  build started [2m...[22m 
+[2m[10:07:24][22m  transpile update started [2m...[22m 
+[2m[10:07:24][22m  transpile update finished [2min 186 ms[22m 
+[2m[10:07:24][22m  deeplinks update started [2m...[22m 
+[2m[10:07:24][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[10:07:24][22m  webpack update started [2m...[22m 
+[2m[10:07:35][22m  webpack update finished [2min 10.84 s[22m 
+[2m[10:07:35][22m  [1m[32mbuild finished[39m[22m [2min 11.05 s[22m 
+
+[2m[10:47:05][22m  build started [2m...[22m 
+[2m[10:47:05][22m  transpile update started [2m...[22m 
+[2m[10:47:05][22m  transpile update finished [2min 29 ms[22m 
+[2m[10:47:05][22m  deeplinks update started [2m...[22m 
+[2m[10:47:05][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[10:47:05][22m  webpack update started [2m...[22m 
+[2m[10:47:12][22m  webpack update finished [2min 6.75 s[22m 
+[2m[10:47:12][22m  [1m[32mbuild finished[39m[22m [2min 6.84 s[22m 
+
+[33m[10:47:15]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:09:20][22m  build started [2m...[22m 
+[2m[11:09:20][22m  transpile update started [2m...[22m 
+[2m[11:09:20][22m  transpile update finished [2min 19 ms[22m 
+[2m[11:09:20][22m  deeplinks update started [2m...[22m 
+[2m[11:09:20][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[11:09:20][22m  webpack update started [2m...[22m 
+[2m[11:09:30][22m  webpack update finished [2min 10.34 s[22m 
+[2m[11:09:30][22m  [1m[32mbuild finished[39m[22m [2min 10.37 s[22m 
+
+[33m[11:09:32]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:15:48][22m  build started [2m...[22m 
+[2m[11:15:48][22m  transpile update started [2m...[22m 
+[2m[11:15:48][22m  transpile update finished [2min 31 ms[22m 
+[2m[11:15:48][22m  deeplinks update started [2m...[22m 
+[2m[11:15:48][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[11:15:48][22m  webpack update started [2m...[22m 
+[2m[11:15:56][22m  webpack update finished [2min 7.71 s[22m 
+[2m[11:15:56][22m  [1m[32mbuild finished[39m[22m [2min 7.75 s[22m 
+
+[2m[11:15:56][22m  build started [2m...[22m 
+[2m[11:15:56][22m  transpile update started [2m...[22m 
+[2m[11:15:56][22m  transpile update finished [2min 40 ms[22m 
+[2m[11:15:56][22m  deeplinks update started [2m...[22m 
+[2m[11:15:56][22m  deeplinks update finished [2min 20 ms[22m 
+[2m[11:15:58][22m  [1m[32mbuild finished[39m[22m [2min 2.39 s[22m 
+
+[2m[11:16:47][22m  build started [2m...[22m 
+[2m[11:16:47][22m  transpile update started [2m...[22m 
+[2m[11:16:47][22m  transpile update finished [2min 34 ms[22m 
+[2m[11:16:47][22m  deeplinks update started [2m...[22m 
+[2m[11:16:47][22m  deeplinks update finished [2min 15 ms[22m 
+[2m[11:16:47][22m  webpack update started [2m...[22m 
+[2m[11:16:57][22m  webpack update finished [2min 10.36 s[22m 
+[2m[11:16:57][22m  [1m[32mbuild finished[39m[22m [2min 10.42 s[22m 
+
+[2m[11:23:36][22m  build started [2m...[22m 
+[2m[11:23:36][22m  transpile update started [2m...[22m 
+[2m[11:23:36][22m  transpile update finished [2min 39 ms[22m 
+[2m[11:23:36][22m  deeplinks update started [2m...[22m 
+[2m[11:23:36][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[11:23:36][22m  webpack update started [2m...[22m 
+[31m[11:23:37]  typescript: src/pages/home/home.ts, line: 19 [39m
+            Type 'Observable<any>' is not assignable to type 'Onedaycast[]'. Property 'length' is missing in type 
+            'Observable<any>'. 
+
+[2m      L18:  [22mngOnInit(): void {
+[2m      L19:  [22m  [41mt[49m[41mh[49m[41mi[49m[41ms[49m[41m.[49m[41mf[49m[41mo[49m[41mr[49m[41me[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m[41ms[49m=this.dataservice.get3DayWeather();
+[2m      L20:  [22m  this.city="城市";
+
+[2m[11:23:43][22m  webpack update finished [2min 7.81 s[22m 
+[2m[11:23:43][22m  [1m[32mbuild finished[39m[22m [2min 7.86 s[22m 
+
+[33m[11:23:46]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[11:24:29][22m  build started [2m...[22m 
+[2m[11:24:29][22m  transpile update started [2m...[22m 
+[2m[11:24:29][22m  transpile update finished [2min 67 ms[22m 
+[2m[11:24:29][22m  deeplinks update started [2m...[22m 
+[2m[11:24:29][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[11:24:29][22m  webpack update started [2m...[22m 
+[2m[11:24:39][22m  webpack update finished [2min 10.02 s[22m 
+[2m[11:24:39][22m  [1m[32mbuild finished[39m[22m [2min 10.18 s[22m 
+
+[33m[11:24:41]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:25:29][22m  build started [2m...[22m 
+[2m[11:25:29][22m  transpile update started [2m...[22m 
+[2m[11:25:29][22m  transpile update finished [2min 37 ms[22m 
+[2m[11:25:29][22m  deeplinks update started [2m...[22m 
+[2m[11:25:29][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[11:25:29][22m  webpack update started [2m...[22m 
+[2m[11:25:37][22m  webpack update finished [2min 7.92 s[22m 
+[2m[11:25:37][22m  [1m[32mbuild finished[39m[22m [2min 7.97 s[22m 
+
+[33m[11:25:39]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[11:26:51][22m  build started [2m...[22m 
+[2m[11:26:51][22m  transpile update started [2m...[22m 
+[2m[11:26:51][22m  transpile update finished [2min 39 ms[22m 
+[2m[11:26:51][22m  deeplinks update started [2m...[22m 
+[2m[11:26:51][22m  deeplinks update finished [2min 11 ms[22m 
+[2m[11:26:51][22m  webpack update started [2m...[22m 
+[2m[11:27:04][22m  webpack update finished [2min 12.88 s[22m 
+[2m[11:27:04][22m  [1m[32mbuild finished[39m[22m [2min 12.94 s[22m 
+
+[33m[11:27:07]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[11:38:53][22m  build started [2m...[22m 
+[2m[11:38:53][22m  transpile update started [2m...[22m 
+[2m[11:38:53][22m  transpile update finished [2min 46 ms[22m 
+[2m[11:38:53][22m  deeplinks update started [2m...[22m 
+[2m[11:38:53][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[11:38:53][22m  webpack update started [2m...[22m 
+[2m[11:39:01][22m  webpack update finished [2min 8.51 s[22m 
+[2m[11:39:01][22m  [1m[32mbuild finished[39m[22m [2min 8.57 s[22m 
+
+[33m[11:39:04]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:39:35][22m  build started [2m...[22m 
+[2m[11:39:35][22m  transpile update started [2m...[22m 
+[2m[11:39:35][22m  transpile update finished [2min 104 ms[22m 
+[2m[11:39:35][22m  deeplinks update started [2m...[22m 
+[2m[11:39:35][22m  deeplinks update finished [2min 30 ms[22m 
+[2m[11:39:35][22m  webpack update started [2m...[22m 
+[2m[11:39:48][22m  webpack update finished [2min 12.55 s[22m 
+[2m[11:39:48][22m  [1m[32mbuild finished[39m[22m [2min 12.70 s[22m 
+
+[33m[11:39:50]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[11:40:05][22m  build started [2m...[22m 
+[2m[11:40:05][22m  transpile update started [2m...[22m 
+[2m[11:40:05][22m  transpile update finished [2min 39 ms[22m 
+[2m[11:40:05][22m  deeplinks update started [2m...[22m 
+[2m[11:40:05][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[11:40:05][22m  webpack update started [2m...[22m 
+[2m[11:40:13][22m  webpack update finished [2min 8.10 s[22m 
+[2m[11:40:13][22m  [1m[32mbuild finished[39m[22m [2min 8.15 s[22m 
+
+[33m[11:40:15]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:05:59][22m  build started [2m...[22m 
+[2m[14:05:59][22m  template update started [2m...[22m 
+[2m[14:05:59][22m  template update finished [2min 166 ms[22m 
+[2m[14:05:59][22m  [1m[32mbuild finished[39m[22m [2min 169 ms[22m 
+
+[2m[14:06:40][22m  build started [2m...[22m 
+[2m[14:06:40][22m  transpile update started [2m...[22m 
+[2m[14:06:41][22m  transpile update finished [2min 41 ms[22m 
+[2m[14:06:41][22m  deeplinks update started [2m...[22m 
+[2m[14:06:41][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[14:06:41][22m  webpack update started [2m...[22m 
+[2m[14:06:52][22m  webpack update finished [2min 11.55 s[22m 
+[2m[14:06:52][22m  [1m[32mbuild finished[39m[22m [2min 11.68 s[22m 
+
+[33m[14:06:55]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:11:30][22m  build started [2m...[22m 
+[2m[14:11:30][22m  transpile update started [2m...[22m 
+[2m[14:11:30][22m  transpile update finished [2min 56 ms[22m 
+[2m[14:11:30][22m  deeplinks update started [2m...[22m 
+[2m[14:11:30][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[14:11:30][22m  webpack update started [2m...[22m 
+[2m[14:11:38][22m  webpack update finished [2min 8.71 s[22m 
+[2m[14:11:38][22m  [1m[32mbuild finished[39m[22m [2min 8.78 s[22m 
+
+[33m[14:11:41]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:14:05][22m  build started [2m...[22m 
+[2m[14:14:05][22m  transpile update started [2m...[22m 
+[2m[14:14:05][22m  transpile update finished [2min 47 ms[22m 
+[2m[14:14:05][22m  deeplinks update started [2m...[22m 
+[2m[14:14:05][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[14:14:05][22m  webpack update started [2m...[22m 
+[2m[14:14:09][22m  webpack update finished [2min 3.75 s[22m 
+[2m[14:14:09][22m  [1m[32mbuild finished[39m[22m [2min 3.82 s[22m 
+
+[33m[14:14:12]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:14:46][22m  build started [2m...[22m 
+[2m[14:14:46][22m  transpile update started [2m...[22m 
+[2m[14:14:46][22m  transpile update finished [2min 80 ms[22m 
+[2m[14:14:46][22m  deeplinks update started [2m...[22m 
+[2m[14:14:46][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[14:14:46][22m  webpack update started [2m...[22m 
+[2m[14:14:55][22m  webpack update finished [2min 8.44 s[22m 
+[2m[14:14:55][22m  [1m[32mbuild finished[39m[22m [2min 8.54 s[22m 
+
+[33m[14:14:57]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:15:49][22m  build started [2m...[22m 
+[2m[14:15:49][22m  transpile update started [2m...[22m 
+[2m[14:15:49][22m  transpile update finished [2min 41 ms[22m 
+[2m[14:15:49][22m  deeplinks update started [2m...[22m 
+[2m[14:15:49][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[14:15:49][22m  webpack update started [2m...[22m 
+[2m[14:16:02][22m  webpack update finished [2min 12.63 s[22m 
+[2m[14:16:02][22m  [1m[32mbuild finished[39m[22m [2min 12.69 s[22m 
+
+[33m[14:16:05]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:17:14][22m  build started [2m...[22m 
+[2m[14:17:14][22m  transpile update started [2m...[22m 
+[2m[14:17:14][22m  transpile update finished [2min 48 ms[22m 
+[2m[14:17:14][22m  deeplinks update started [2m...[22m 
+[2m[14:17:14][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[14:17:14][22m  webpack update started [2m...[22m 
+[2m[14:17:23][22m  webpack update finished [2min 8.96 s[22m 
+[2m[14:17:23][22m  [1m[32mbuild finished[39m[22m [2min 9.03 s[22m 
+
+[33m[14:17:26]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:19:11][22m  build started [2m...[22m 
+[2m[14:19:11][22m  transpile update started [2m...[22m 
+[2m[14:19:11][22m  transpile update finished [2min 49 ms[22m 
+[2m[14:19:11][22m  deeplinks update started [2m...[22m 
+[2m[14:19:11][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[14:19:11][22m  webpack update started [2m...[22m 
+[2m[14:19:24][22m  webpack update finished [2min 12.59 s[22m 
+[2m[14:19:24][22m  [1m[32mbuild finished[39m[22m [2min 12.66 s[22m 
+
+[33m[14:19:26]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:19:34][22m  build started [2m...[22m 
+[2m[14:19:34][22m  transpile started [2m...[22m 
+[2m[14:19:36][22m  transpile finished [2min 2.20 s[22m 
+[2m[14:19:36][22m  deeplinks update started [2m...[22m 
+[2m[14:19:36][22m  deeplinks update finished [2min 3 ms[22m 
+[2m[14:19:36][22m  webpack update started [2m...[22m 
+[2m[14:19:45][22m  webpack update finished [2min 8.71 s[22m 
+[2m[14:19:45][22m  [1m[32mbuild finished[39m[22m [2min 10.92 s[22m 
+
+[2m[14:22:15][22m  build started [2m...[22m 
+[2m[14:22:15][22m  template update started [2m...[22m 
+[2m[14:22:15][22m  template update finished [2min 77 ms[22m 
+[2m[14:22:15][22m  deeplinks update started [2m...[22m 
+[2m[14:22:15][22m  deeplinks update finished [2min 18 ms[22m 
+[2m[14:22:15][22m  [1m[32mbuild finished[39m[22m [2min 96 ms[22m 
+
+[2m[14:22:16][22m  build started [2m...[22m 
+[2m[14:22:16][22m  deeplinks update started [2m...[22m 
+[2m[14:22:16][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[14:22:16][22m  sass update started [2m...[22m 
+[2m[14:22:18][22m  sass update finished [2min 1.68 s[22m 
+[2m[14:22:18][22m  [1m[32mbuild finished[39m[22m [2min 1.70 s[22m 
+
+[2m[14:22:46][22m  build started [2m...[22m 
+[2m[14:22:46][22m  template update started [2m...[22m 
+[2m[14:22:46][22m  template update finished [2min 75 ms[22m 
+[2m[14:22:46][22m  deeplinks update started [2m...[22m 
+[2m[14:22:46][22m  deeplinks update finished [2min 53 ms[22m 
+[2m[14:22:46][22m  [1m[32mbuild finished[39m[22m [2min 130 ms[22m 
+
+[2m[14:28:23][22m  build started [2m...[22m 
+[2m[14:28:23][22m  template update started [2m...[22m 
+[2m[14:28:23][22m  template update finished [2min 77 ms[22m 
+[2m[14:28:23][22m  transpile update started [2m...[22m 
+[2m[14:28:23][22m  transpile update finished [2min 31 ms[22m 
+[2m[14:28:23][22m  deeplinks update started [2m...[22m 
+[2m[14:28:23][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[14:28:23][22m  webpack update started [2m...[22m 
+[2m[14:28:33][22m  webpack update finished [2min 10.58 s[22m 
+[2m[14:28:33][22m  [1m[32mbuild finished[39m[22m [2min 10.71 s[22m 
+
+[33m[14:28:36]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[14:29:21][22m  build started [2m...[22m 
+[2m[14:29:21][22m  transpile update started [2m...[22m 
+[2m[14:29:21][22m  transpile update finished [2min 46 ms[22m 
+[2m[14:29:21][22m  deeplinks update started [2m...[22m 
+[2m[14:29:21][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[14:29:21][22m  webpack update started [2m...[22m 
+[2m[14:29:29][22m  webpack update finished [2min 8.25 s[22m 
+[2m[14:29:29][22m  [1m[32mbuild finished[39m[22m [2min 8.31 s[22m 
+
+[33m[14:29:31]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[14:31:57][22m  build started [2m...[22m 
+[2m[14:31:57][22m  transpile update started [2m...[22m 
+[2m[14:31:57][22m  transpile update finished [2min 37 ms[22m 
+[2m[14:31:57][22m  deeplinks update started [2m...[22m 
+[2m[14:31:57][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[14:31:57][22m  webpack update started [2m...[22m 
+[2m[14:32:08][22m  webpack update finished [2min 10.63 s[22m 
+[2m[14:32:08][22m  [1m[32mbuild finished[39m[22m [2min 10.68 s[22m 
+
+[33m[14:32:10]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[14:35:37][22m  build started [2m...[22m 
+[2m[14:35:37][22m  transpile update started [2m...[22m 
+[2m[14:35:37][22m  transpile update finished [2min 48 ms[22m 
+[2m[14:35:37][22m  deeplinks update started [2m...[22m 
+[2m[14:35:37][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[14:35:37][22m  webpack update started [2m...[22m 
+[2m[14:35:46][22m  webpack update finished [2min 8.17 s[22m 
+[2m[14:35:46][22m  [1m[32mbuild finished[39m[22m [2min 8.24 s[22m 
+
+[33m[14:35:48]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:36:04][22m  build started [2m...[22m 
+[2m[14:36:04][22m  transpile update started [2m...[22m 
+[2m[14:36:04][22m  transpile update finished [2min 43 ms[22m 
+[2m[14:36:04][22m  deeplinks update started [2m...[22m 
+[2m[14:36:04][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[14:36:04][22m  webpack update started [2m...[22m 
+[2m[14:36:13][22m  webpack update finished [2min 9.64 s[22m 
+[2m[14:36:13][22m  [1m[32mbuild finished[39m[22m [2min 9.70 s[22m 
+
+[33m[14:36:16]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:37:30][22m  build started [2m...[22m 
+[2m[14:37:30][22m  transpile update started [2m...[22m 
+[2m[14:37:30][22m  transpile update finished [2min 46 ms[22m 
+[2m[14:37:30][22m  deeplinks update started [2m...[22m 
+[2m[14:37:30][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[14:37:30][22m  webpack update started [2m...[22m 
+[2m[14:37:38][22m  webpack update finished [2min 8.27 s[22m 
+[2m[14:37:38][22m  [1m[32mbuild finished[39m[22m [2min 8.34 s[22m 
+
+[33m[14:37:41]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:40:39][22m  build started [2m...[22m 
+[2m[14:40:39][22m  transpile update started [2m...[22m 
+[2m[14:40:39][22m  transpile update finished [2min 37 ms[22m 
+[2m[14:40:39][22m  deeplinks update started [2m...[22m 
+[2m[14:40:39][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[14:40:39][22m  webpack update started [2m...[22m 
+[2m[14:40:50][22m  webpack update finished [2min 10.30 s[22m 
+[2m[14:40:50][22m  [1m[32mbuild finished[39m[22m [2min 10.36 s[22m 
+
+[33m[14:40:53]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:44:53][22m  build started [2m...[22m 
+[2m[14:44:53][22m  transpile update started [2m...[22m 
+[2m[14:44:53][22m  transpile update finished [2min 58 ms[22m 
+[2m[14:44:53][22m  deeplinks update started [2m...[22m 
+[2m[14:44:53][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[14:44:53][22m  webpack update started [2m...[22m 
+[2m[14:45:01][22m  webpack update finished [2min 8.05 s[22m 
+[2m[14:45:01][22m  [1m[32mbuild finished[39m[22m [2min 8.13 s[22m 
+
+[33m[14:45:04]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[33m[14:45:04]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:49:19][22m  build started [2m...[22m 
+[2m[14:49:19][22m  transpile update started [2m...[22m 
+[2m[14:49:19][22m  transpile update finished [2min 49 ms[22m 
+[2m[14:49:19][22m  deeplinks update started [2m...[22m 
+[2m[14:49:19][22m  deeplinks update finished [2min 11 ms[22m 
+[2m[14:49:19][22m  webpack update started [2m...[22m 
+[2m[14:49:31][22m  webpack update finished [2min 11.40 s[22m 
+[2m[14:49:31][22m  [1m[32mbuild finished[39m[22m [2min 11.47 s[22m 
+
+[2m[14:49:31][22m  build started [2m...[22m 
+[2m[14:49:31][22m  transpile update started [2m...[22m 
+[2m[14:49:31][22m  transpile update finished [2min 35 ms[22m 
+[2m[14:49:31][22m  deeplinks update started [2m...[22m 
+[2m[14:49:31][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[14:49:33][22m  [1m[32mbuild finished[39m[22m [2min 2.49 s[22m 
+
+[33m[14:49:35]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:50:11][22m  build started [2m...[22m 
+[2m[14:50:11][22m  transpile update started [2m...[22m 
+[2m[14:50:11][22m  transpile update finished [2min 29 ms[22m 
+[2m[14:50:11][22m  deeplinks update started [2m...[22m 
+[2m[14:50:11][22m  deeplinks update finished [2min 17 ms[22m 
+[2m[14:50:11][22m  webpack update started [2m...[22m 
+[2m[14:50:19][22m  webpack update finished [2min 8.11 s[22m 
+[2m[14:50:19][22m  [1m[32mbuild finished[39m[22m [2min 8.16 s[22m 
+
+[33m[14:50:21]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[14:51:54][22m  build started [2m...[22m 
+[2m[14:51:54][22m  transpile update started [2m...[22m 
+[2m[14:51:54][22m  transpile update finished [2min 35 ms[22m 
+[2m[14:51:54][22m  deeplinks update started [2m...[22m 
+[2m[14:51:54][22m  deeplinks update finished [2min 11 ms[22m 
+[2m[14:51:54][22m  webpack update started [2m...[22m 
+[2m[14:52:05][22m  webpack update finished [2min 11.57 s[22m 
+[2m[14:52:05][22m  [1m[32mbuild finished[39m[22m [2min 11.63 s[22m 
+
+[33m[14:52:08]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[14:52:59][22m  build started [2m...[22m 
+[2m[14:52:59][22m  transpile update started [2m...[22m 
+[2m[14:52:59][22m  transpile update finished [2min 50 ms[22m 
+[2m[14:52:59][22m  deeplinks update started [2m...[22m 
+[2m[14:52:59][22m  deeplinks update finished [2min 13 ms[22m 
+[2m[14:52:59][22m  webpack update started [2m...[22m 
+[2m[14:53:08][22m  webpack update finished [2min 8.76 s[22m 
+[2m[14:53:08][22m  [1m[32mbuild finished[39m[22m [2min 8.83 s[22m 
+
+[33m[14:53:10]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[14:57:59][22m  build started [2m...[22m 
+[2m[14:57:59][22m  transpile update started [2m...[22m 
+[2m[14:57:59][22m  transpile update finished [2min 43 ms[22m 
+[2m[14:57:59][22m  deeplinks update started [2m...[22m 
+[2m[14:57:59][22m  deeplinks update finished [2min 16 ms[22m 
+[2m[14:57:59][22m  webpack update started [2m...[22m 
+[31m[14:58:01]  typescript: src/pages/home/home.ts, line: 25 [39m
+            Property 'daily_forecast' does not exist on type 'Observable<any>'. 
+
+[2m      L25:  [22m   let data=this.dataservice.weatherInfo.[41md[49m[41ma[49m[41mi[49m[41ml[49m[41my[49m[41m_[49m[41mf[49m[41mo[49m[41mr[49m[41me[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m;
+[2m      L26:  [22m   for(let index=0;index<3;index++){
+
+[31m[14:58:01]  typescript: src/pages/home/home.ts, line: 37 [39m
+            Property 'basic' does not exist on type 'Observable<any>'. 
+
+[2m      L37:  [22m   let data=this.dataservice.weatherInfo.[41mb[49m[41ma[49m[41ms[49m[41mi[49m[41mc[49m;
+[2m      L38:  [22m   this.city=data.city;
+
+[2m[14:58:11][22m  webpack update finished [2min 12.05 s[22m 
+[2m[14:58:11][22m  [1m[32mbuild finished[39m[22m [2min 12.12 s[22m 
+
+[33m[14:58:14]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 4 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+[2m       L4:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L5:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[14:58:23][22m  build started [2m...[22m 
+[2m[14:58:23][22m  transpile update started [2m...[22m 
+[2m[14:58:23][22m  transpile update finished [2min 53 ms[22m 
+[2m[14:58:23][22m  deeplinks update started [2m...[22m 
+[2m[14:58:23][22m  deeplinks update finished [2min 12 ms[22m 
+[2m[14:58:23][22m  webpack update started [2m...[22m 
+[2m[14:58:34][22m  webpack update finished [2min 10.65 s[22m 
+[2m[14:58:34][22m  [1m[32mbuild finished[39m[22m [2min 10.72 s[22m 
+
+[33m[14:58:36]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:23:16][22m  build started [2m...[22m 
+[2m[15:23:16][22m  transpile update started [2m...[22m 
+[2m[15:23:16][22m  transpile update finished [2min 34 ms[22m 
+[2m[15:23:16][22m  deeplinks update started [2m...[22m 
+[2m[15:23:16][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[15:23:16][22m  webpack update started [2m...[22m 
+[2m[15:23:28][22m  webpack update finished [2min 12.81 s[22m 
+[2m[15:23:28][22m  [1m[32mbuild finished[39m[22m [2min 12.86 s[22m 
+
+[33m[15:23:31]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[15:24:48][22m  build started [2m...[22m 
+[2m[15:24:48][22m  transpile update started [2m...[22m 
+[2m[15:24:48][22m  transpile update finished [2min 59 ms[22m 
+[2m[15:24:48][22m  deeplinks update started [2m...[22m 
+[2m[15:24:48][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[15:24:48][22m  webpack update started [2m...[22m 
+[2m[15:24:58][22m  webpack update finished [2min 10.66 s[22m 
+[2m[15:24:59][22m  [1m[32mbuild finished[39m[22m [2min 10.74 s[22m 
+
+[33m[15:25:01]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[15:29:27][22m  build started [2m...[22m 
+[2m[15:29:27][22m  transpile update started [2m...[22m 
+[2m[15:29:28][22m  transpile update finished [2min 44 ms[22m 
+[2m[15:29:28][22m  deeplinks update started [2m...[22m 
+[2m[15:29:28][22m  deeplinks update finished [2min 11 ms[22m 
+[2m[15:29:28][22m  webpack update started [2m...[22m 
+[2m[15:29:41][22m  webpack update finished [2min 13.20 s[22m 
+[2m[15:29:41][22m  [1m[32mbuild finished[39m[22m [2min 13.27 s[22m 
+
+[33m[15:29:43]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[15:30:08][22m  build started [2m...[22m 
+[2m[15:30:08][22m  transpile update started [2m...[22m 
+[2m[15:30:08][22m  transpile update finished [2min 33 ms[22m 
+[2m[15:30:08][22m  deeplinks update started [2m...[22m 
+[2m[15:30:08][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[15:30:08][22m  webpack update started [2m...[22m 
+[2m[15:30:18][22m  webpack update finished [2min 9.42 s[22m 
+[2m[15:30:18][22m  [1m[32mbuild finished[39m[22m [2min 9.47 s[22m 
+
+[33m[15:30:20]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[15:30:29][22m  build started [2m...[22m 
+[2m[15:30:29][22m  transpile update started [2m...[22m 
+[2m[15:30:29][22m  transpile update finished [2min 29 ms[22m 
+[2m[15:30:29][22m  deeplinks update started [2m...[22m 
+[2m[15:30:29][22m  deeplinks update finished [2min 8 ms[22m 
+[2m[15:30:29][22m  webpack update started [2m...[22m 
+[2m[15:30:41][22m  webpack update finished [2min 12.16 s[22m 
+[2m[15:30:41][22m  [1m[32mbuild finished[39m[22m [2min 12.21 s[22m 
+
+[33m[15:30:44]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[15:30:51][22m  build started [2m...[22m 
+[2m[15:30:51][22m  transpile update started [2m...[22m 
+[2m[15:30:51][22m  transpile update finished [2min 32 ms[22m 
+[2m[15:30:51][22m  deeplinks update started [2m...[22m 
+[2m[15:30:51][22m  deeplinks update finished [2min 11 ms[22m 
+[2m[15:30:51][22m  webpack update started [2m...[22m 
+[2m[15:31:00][22m  webpack update finished [2min 9.26 s[22m 
+[2m[15:31:00][22m  [1m[32mbuild finished[39m[22m [2min 9.31 s[22m 
+
+[33m[15:31:03]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[15:34:26][22m  build started [2m...[22m 
+[2m[15:34:26][22m  transpile update started [2m...[22m 
+[2m[15:34:26][22m  transpile update finished [2min 118 ms[22m 
+[2m[15:34:26][22m  deeplinks update started [2m...[22m 
+[2m[15:34:26][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[15:34:26][22m  webpack update started [2m...[22m 
+[2m[15:34:40][22m  webpack update finished [2min 14.39 s[22m 
+[2m[15:34:40][22m  [1m[32mbuild finished[39m[22m [2min 14.52 s[22m 
+
+[33m[15:34:43]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[15:35:16][22m  build started [2m...[22m 
+[2m[15:35:16][22m  template update started [2m...[22m 
+[2m[15:35:16][22m  template update finished [2min 79 ms[22m 
+[2m[15:35:16][22m  [1m[32mbuild finished[39m[22m [2min 85 ms[22m 
+
+[2m[15:38:58][22m  build started [2m...[22m 
+[2m[15:38:58][22m  template update started [2m...[22m 
+[2m[15:38:58][22m  template update finished [2min 86 ms[22m 
+[2m[15:38:58][22m  [1m[32mbuild finished[39m[22m [2min 89 ms[22m 
+
+[2m[15:39:10][22m  build started [2m...[22m 
+[2m[15:39:10][22m  template update started [2m...[22m 
+[2m[15:39:10][22m  template update finished [2min 73 ms[22m 
+[2m[15:39:10][22m  [1m[32mbuild finished[39m[22m [2min 75 ms[22m 
+
+[2m[15:39:27][22m  build started [2m...[22m 
+[2m[15:39:27][22m  template update started [2m...[22m 
+[2m[15:39:27][22m  template update finished [2min 81 ms[22m 
+[2m[15:39:27][22m  [1m[32mbuild finished[39m[22m [2min 83 ms[22m 
+
+[2m[15:39:33][22m  build started [2m...[22m 
+[2m[15:39:33][22m  template update started [2m...[22m 
+[2m[15:39:33][22m  template update finished [2min 67 ms[22m 
+[2m[15:39:33][22m  [1m[32mbuild finished[39m[22m [2min 68 ms[22m 
+
+[2m[15:39:44][22m  build started [2m...[22m 
+[2m[15:39:44][22m  template update started [2m...[22m 
+[2m[15:39:44][22m  template update finished [2min 72 ms[22m 
+[2m[15:39:44][22m  [1m[32mbuild finished[39m[22m [2min 73 ms[22m 
+
+[2m[15:42:00][22m  build started [2m...[22m 
+[2m[15:42:00][22m  template update started [2m...[22m 
+[2m[15:42:00][22m  template update finished [2min 71 ms[22m 
+[2m[15:42:00][22m  [1m[32mbuild finished[39m[22m [2min 72 ms[22m 
+
+[2m[15:42:41][22m  build started [2m...[22m 
+[2m[15:42:41][22m  template update started [2m...[22m 
+[2m[15:42:41][22m  template update finished [2min 65 ms[22m 
+[2m[15:42:41][22m  [1m[32mbuild finished[39m[22m [2min 69 ms[22m 
+
+[2m[15:45:16][22m  build started [2m...[22m 
+[2m[15:45:16][22m  template update started [2m...[22m 
+[2m[15:45:16][22m  template update finished [2min 49 ms[22m 
+[2m[15:45:16][22m  [1m[32mbuild finished[39m[22m [2min 51 ms[22m 
+
+[2m[15:46:30][22m  build started [2m...[22m 
+[2m[15:46:30][22m  sass update started [2m...[22m 
+[2m[15:46:31][22m  sass update finished [2min 874 ms[22m 
+[2m[15:46:31][22m  [1m[32mbuild finished[39m[22m [2min 880 ms[22m 
+
+[2m[15:46:46][22m  build started [2m...[22m 
+[2m[15:46:46][22m  template update started [2m...[22m 
+[2m[15:46:46][22m  template update finished [2min 42 ms[22m 
+[2m[15:46:46][22m  [1m[32mbuild finished[39m[22m [2min 44 ms[22m 
+
+[2m[15:47:13][22m  build started [2m...[22m 
+[2m[15:47:13][22m  template update started [2m...[22m 
+[2m[15:47:13][22m  template update finished [2min 71 ms[22m 
+[2m[15:47:13][22m  [1m[32mbuild finished[39m[22m [2min 72 ms[22m 
+
+[2m[15:47:27][22m  build started [2m...[22m 
+[2m[15:47:27][22m  sass update started [2m...[22m 
+[2m[15:47:28][22m  sass update finished [2min 959 ms[22m 
+[2m[15:47:28][22m  [1m[32mbuild finished[39m[22m [2min 961 ms[22m 
+
+[2m[15:48:32][22m  build started [2m...[22m 
+[2m[15:48:32][22m  sass update started [2m...[22m 
+[2m[15:48:32][22m  sass update finished [2min 697 ms[22m 
+[2m[15:48:32][22m  [1m[32mbuild finished[39m[22m [2min 700 ms[22m 
+
+[2m[15:48:58][22m  build started [2m...[22m 
+[2m[15:48:58][22m  sass update started [2m...[22m 
+[2m[15:48:59][22m  sass update finished [2min 1.24 s[22m 
+[2m[15:48:59][22m  [1m[32mbuild finished[39m[22m [2min 1.25 s[22m 
+
+[2m[15:52:23][22m  build started [2m...[22m 
+[2m[15:52:23][22m  template update started [2m...[22m 
+[2m[15:52:23][22m  template update finished [2min 61 ms[22m 
+[2m[15:52:23][22m  [1m[32mbuild finished[39m[22m [2min 64 ms[22m 
+
+[2m[15:52:42][22m  build started [2m...[22m 
+[2m[15:52:42][22m  template update started [2m...[22m 
+[2m[15:52:42][22m  template update finished [2min 101 ms[22m 
+[2m[15:52:42][22m  [1m[32mbuild finished[39m[22m [2min 103 ms[22m 
+
+[2m[15:53:23][22m  build started [2m...[22m 
+[2m[15:53:23][22m  sass update started [2m...[22m 
+[2m[15:53:24][22m  sass update finished [2min 890 ms[22m 
+[2m[15:53:24][22m  [1m[32mbuild finished[39m[22m [2min 893 ms[22m 
+
+[2m[15:54:13][22m  build started [2m...[22m 
+[2m[15:54:13][22m  template update started [2m...[22m 
+[2m[15:54:13][22m  template update finished [2min 67 ms[22m 
+[2m[15:54:13][22m  [1m[32mbuild finished[39m[22m [2min 69 ms[22m 
+
+[2m[15:54:37][22m  build started [2m...[22m 
+[2m[15:54:37][22m  sass update started [2m...[22m 
+[2m[15:54:38][22m  sass update finished [2min 937 ms[22m 
+[2m[15:54:38][22m  [1m[32mbuild finished[39m[22m [2min 939 ms[22m 
+
+[2m[15:54:55][22m  build started [2m...[22m 
+[2m[15:54:55][22m  template update started [2m...[22m 
+[2m[15:54:55][22m  template update finished [2min 59 ms[22m 
+[2m[15:54:55][22m  [1m[32mbuild finished[39m[22m [2min 61 ms[22m 
+
+[2m[15:55:18][22m  build started [2m...[22m 
+[2m[15:55:18][22m  sass update started [2m...[22m 
+[2m[15:55:19][22m  sass update finished [2min 903 ms[22m 
+[2m[15:55:19][22m  [1m[32mbuild finished[39m[22m [2min 907 ms[22m 
+
+[2m[15:55:53][22m  build started [2m...[22m 
+[2m[15:55:54][22m  template update started [2m...[22m 
+[2m[15:55:54][22m  template update finished [2min 77 ms[22m 
+[2m[15:55:54][22m  [1m[32mbuild finished[39m[22m [2min 78 ms[22m 
+
+[2m[15:56:40][22m  build started [2m...[22m 
+[2m[15:56:40][22m  template update started [2m...[22m 
+[2m[15:56:40][22m  template update finished [2min 46 ms[22m 
+[2m[15:56:40][22m  [1m[32mbuild finished[39m[22m [2min 48 ms[22m 
+
+[2m[15:59:48][22m  build started [2m...[22m 
+[2m[15:59:48][22m  template update started [2m...[22m 
+[2m[15:59:48][22m  template update finished [2min 64 ms[22m 
+[2m[15:59:48][22m  [1m[32mbuild finished[39m[22m [2min 69 ms[22m 
+
+[2m[16:00:05][22m  build started [2m...[22m 
+[2m[16:00:05][22m  template update started [2m...[22m 
+[2m[16:00:05][22m  template update finished [2min 49 ms[22m 
+[2m[16:00:05][22m  [1m[32mbuild finished[39m[22m [2min 52 ms[22m 
+
+[2m[16:01:31][22m  build started [2m...[22m 
+[2m[16:01:32][22m  template update started [2m...[22m 
+[2m[16:01:32][22m  template update finished [2min 38 ms[22m 
+[2m[16:01:32][22m  [1m[32mbuild finished[39m[22m [2min 40 ms[22m 
+
+[2m[16:01:39][22m  build started [2m...[22m 
+[2m[16:01:39][22m  template update started [2m...[22m 
+[2m[16:01:39][22m  template update finished [2min 97 ms[22m 
+[2m[16:01:39][22m  [1m[32mbuild finished[39m[22m [2min 98 ms[22m 
+
+[2m[16:01:46][22m  build started [2m...[22m 
+[2m[16:01:46][22m  template update started [2m...[22m 
+[2m[16:01:46][22m  template update finished [2min 64 ms[22m 
+[2m[16:01:46][22m  [1m[32mbuild finished[39m[22m [2min 66 ms[22m 
+
+[2m[16:02:25][22m  build started [2m...[22m 
+[2m[16:02:25][22m  template update started [2m...[22m 
+[2m[16:02:25][22m  template update finished [2min 59 ms[22m 
+[2m[16:02:25][22m  [1m[32mbuild finished[39m[22m [2min 61 ms[22m 
+
+[2m[16:02:56][22m  build started [2m...[22m 
+[2m[16:02:56][22m  template update started [2m...[22m 
+[2m[16:02:56][22m  template update finished [2min 67 ms[22m 
+[2m[16:02:56][22m  [1m[32mbuild finished[39m[22m [2min 69 ms[22m 
+
+[2m[16:03:33][22m  build started [2m...[22m 
+[2m[16:03:33][22m  template update started [2m...[22m 
+[2m[16:03:33][22m  template update finished [2min 65 ms[22m 
+[2m[16:03:33][22m  [1m[32mbuild finished[39m[22m [2min 69 ms[22m 
+
+[2m[16:04:24][22m  build started [2m...[22m 
+[2m[16:04:24][22m  template update started [2m...[22m 
+[2m[16:04:24][22m  template update finished [2min 50 ms[22m 
+[2m[16:04:24][22m  [1m[32mbuild finished[39m[22m [2min 51 ms[22m 
+
+[2m[16:05:04][22m  build started [2m...[22m 
+[2m[16:05:04][22m  template update started [2m...[22m 
+[2m[16:05:04][22m  template update finished [2min 80 ms[22m 
+[2m[16:05:04][22m  [1m[32mbuild finished[39m[22m [2min 82 ms[22m 
+
+[2m[16:06:57][22m  build started [2m...[22m 
+[2m[16:06:57][22m  template update started [2m...[22m 
+[2m[16:06:57][22m  template update finished [2min 49 ms[22m 
+[2m[16:06:57][22m  [1m[32mbuild finished[39m[22m [2min 50 ms[22m 
+
+[2m[16:07:45][22m  build started [2m...[22m 
+[2m[16:07:46][22m  template update started [2m...[22m 
+[2m[16:07:46][22m  template update finished [2min 52 ms[22m 
+[2m[16:07:46][22m  [1m[32mbuild finished[39m[22m [2min 54 ms[22m 
+
+[2m[16:08:05][22m  build started [2m...[22m 
+[2m[16:08:06][22m  template update started [2m...[22m 
+[2m[16:08:06][22m  template update finished [2min 69 ms[22m 
+[2m[16:08:06][22m  [1m[32mbuild finished[39m[22m [2min 70 ms[22m 
+
+[2m[16:10:14][22m  build started [2m...[22m 
+[2m[16:10:14][22m  transpile update started [2m...[22m 
+[2m[16:10:14][22m  transpile update finished [2min 189 ms[22m 
+[2m[16:10:14][22m  deeplinks update started [2m...[22m 
+[2m[16:10:14][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[16:10:14][22m  webpack update started [2m...[22m 
+[2m[16:10:24][22m  webpack update finished [2min 9.26 s[22m 
+[2m[16:10:24][22m  [1m[32mbuild finished[39m[22m [2min 9.47 s[22m 
+
+[2m[16:10:25][22m  build started [2m...[22m 
+[2m[16:10:25][22m  transpile update started [2m...[22m 
+[2m[16:10:25][22m  transpile update finished [2min 40 ms[22m 
+[2m[16:10:25][22m  deeplinks update started [2m...[22m 
+[2m[16:10:25][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[16:10:25][22m  webpack update started [2m...[22m 
+[33m[16:10:27]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[16:10:38][22m  webpack update finished [2min 12.82 s[22m 
+[2m[16:10:38][22m  [1m[32mbuild finished[39m[22m [2min 12.88 s[22m 
+
+[33m[16:10:40]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[16:10:51][22m  build started [2m...[22m 
+[2m[16:10:51][22m  transpile update started [2m...[22m 
+[2m[16:10:51][22m  transpile update finished [2min 69 ms[22m 
+[2m[16:10:51][22m  deeplinks update started [2m...[22m 
+[2m[16:10:51][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[16:10:51][22m  webpack update started [2m...[22m 
+[31m[16:10:53]  typescript: src/pages/home/home.ts, line: 35 [39m
+            Duplicate function implementation. 
+
+[2m      L35:  [22m[41mi[49m[41mn[49m[41mi[49m[41mt[49m[41mB[49m[41ma[49m[41ms[49m[41mi[49m[41mc[49m[41mI[49m[41mn[49m[41mf[49m[41mo[49m():void{
+[2m      L36:  [22m  this.dataservice.getBasicInfo().subscribe(data=>{
+
+[31m[16:10:53]  typescript: src/pages/home/home.ts, line: 45 [39m
+            Duplicate function implementation. 
+
+[2m      L45:  [22m[41mi[49m[41mn[49m[41mi[49m[41mt[49m[41mB[49m[41ma[49m[41ms[49m[41mi[49m[41mc[49m[41mI[49m[41mn[49m[41mf[49m[41mo[49m():void{
+[2m      L46:  [22m  this.dataservice.getBasicInfo().subscribe(data=>{
+
+[2m[16:11:01][22m  webpack update finished [2min 9.43 s[22m 
+[2m[16:11:01][22m  [1m[32mbuild finished[39m[22m [2min 9.52 s[22m 
+
+[33m[16:11:03]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:11:18][22m  build started [2m...[22m 
+[2m[16:11:18][22m  transpile update started [2m...[22m 
+[2m[16:11:18][22m  transpile update finished [2min 52 ms[22m 
+[2m[16:11:18][22m  deeplinks update started [2m...[22m 
+[2m[16:11:18][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[16:11:18][22m  webpack update started [2m...[22m 
+[2m[16:11:29][22m  webpack update finished [2min 10.85 s[22m 
+[2m[16:11:29][22m  [1m[32mbuild finished[39m[22m [2min 10.93 s[22m 
+
+[33m[16:11:31]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:13:47][22m  build started [2m...[22m 
+[2m[16:13:47][22m  transpile update started [2m...[22m 
+[2m[16:13:47][22m  transpile update finished [2min 23 ms[22m 
+[2m[16:13:47][22m  deeplinks update started [2m...[22m 
+[2m[16:13:47][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[16:13:47][22m  webpack update started [2m...[22m 
+[2m[16:13:57][22m  webpack update finished [2min 9.42 s[22m 
+[2m[16:13:57][22m  [1m[32mbuild finished[39m[22m [2min 9.45 s[22m 
+
+[33m[16:13:59]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:14:19][22m  build started [2m...[22m 
+[2m[16:14:19][22m  template update started [2m...[22m 
+[2m[16:14:19][22m  template update finished [2min 78 ms[22m 
+[2m[16:14:19][22m  [1m[32mbuild finished[39m[22m [2min 81 ms[22m 
+
+[2m[16:14:47][22m  build started [2m...[22m 
+[2m[16:14:47][22m  transpile started [2m...[22m 
+[2m[16:14:49][22m  transpile finished [2min 2.17 s[22m 
+[2m[16:14:49][22m  deeplinks update started [2m...[22m 
+[2m[16:14:49][22m  deeplinks update finished [2min 5 ms[22m 
+[2m[16:14:49][22m  webpack update started [2m...[22m 
+[2m[16:15:00][22m  webpack update finished [2min 11.04 s[22m 
+[2m[16:15:00][22m  [1m[32mbuild finished[39m[22m [2min 13.21 s[22m 
+
+[2m[16:16:12][22m  build started [2m...[22m 
+[2m[16:16:12][22m  template update started [2m...[22m 
+[2m[16:16:12][22m  template update finished [2min less than 1 ms[22m 
+[2m[16:16:12][22m  transpile update started [2m...[22m 
+[2m[16:16:12][22m  transpile update finished [2min 27 ms[22m 
+[2m[16:16:12][22m  deeplinks update started [2m...[22m 
+[2m[16:16:12][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[16:16:12][22m  webpack update started [2m...[22m 
+[2m[16:16:23][22m  webpack update finished [2min 10.44 s[22m 
+[2m[16:16:23][22m  [1m[32mbuild finished[39m[22m [2min 10.48 s[22m 
+
+[2m[16:16:23][22m  build started [2m...[22m 
+[2m[16:16:23][22m  transpile update started [2m...[22m 
+[2m[16:16:23][22m  transpile update finished [2min 29 ms[22m 
+[2m[16:16:23][22m  deeplinks update started [2m...[22m 
+[2m[16:16:23][22m  deeplinks update finished [2min 17 ms[22m 
+[2m[16:16:26][22m  [1m[32mbuild finished[39m[22m [2min 3.40 s[22m 
+
+[33m[16:16:29]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:20:47][22m  build started [2m...[22m 
+[2m[16:20:47][22m  transpile update started [2m...[22m 
+[2m[16:20:47][22m  transpile update finished [2min 40 ms[22m 
+[2m[16:20:47][22m  deeplinks update started [2m...[22m 
+[2m[16:20:47][22m  deeplinks update finished [2min 7 ms[22m 
+[2m[16:20:47][22m  webpack update started [2m...[22m 
+[2m[16:21:00][22m  webpack update finished [2min 12.77 s[22m 
+[2m[16:21:00][22m  [1m[32mbuild finished[39m[22m [2min 12.83 s[22m 
+
+[33m[16:21:03]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[33m[16:21:03]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:22:14][22m  build started [2m...[22m 
+[2m[16:22:14][22m  transpile update started [2m...[22m 
+[2m[16:22:15][22m  transpile update finished [2min 62 ms[22m 
+[2m[16:22:15][22m  deeplinks update started [2m...[22m 
+[2m[16:22:15][22m  deeplinks update finished [2min 31 ms[22m 
+[2m[16:22:15][22m  webpack update started [2m...[22m 
+[2m[16:22:25][22m  webpack update finished [2min 10.73 s[22m 
+[2m[16:22:25][22m  [1m[32mbuild finished[39m[22m [2min 10.83 s[22m 
+
+[33m[16:22:28]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[16:23:11][22m  build started [2m...[22m 
+[2m[16:23:11][22m  transpile update started [2m...[22m 
+[2m[16:23:11][22m  transpile update finished [2min 38 ms[22m 
+[2m[16:23:11][22m  deeplinks update started [2m...[22m 
+[2m[16:23:11][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[16:23:11][22m  webpack update started [2m...[22m 
+[2m[16:23:15][22m  webpack update finished [2min 4.09 s[22m 
+[2m[16:23:15][22m  [1m[32mbuild finished[39m[22m [2min 4.15 s[22m 
+
+[33m[16:23:18]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[16:23:39][22m  build started [2m...[22m 
+[2m[16:23:39][22m  transpile update started [2m...[22m 
+[2m[16:23:39][22m  transpile update finished [2min 91 ms[22m 
+[2m[16:23:39][22m  deeplinks update started [2m...[22m 
+[2m[16:23:39][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[16:23:39][22m  webpack update started [2m...[22m 
+[2m[16:23:49][22m  webpack update finished [2min 9.94 s[22m 
+[2m[16:23:49][22m  [1m[32mbuild finished[39m[22m [2min 10.05 s[22m 
+
+[33m[16:23:52]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:24:34][22m  build started [2m...[22m 
+[2m[16:24:34][22m  template update started [2m...[22m 
+[2m[16:24:34][22m  template update finished [2min 86 ms[22m 
+[2m[16:24:34][22m  [1m[32mbuild finished[39m[22m [2min 88 ms[22m 
+
+[2m[16:26:21][22m  build started [2m...[22m 
+[2m[16:26:21][22m  template update started [2m...[22m 
+[2m[16:26:21][22m  template update finished [2min 59 ms[22m 
+[2m[16:26:21][22m  transpile update started [2m...[22m 
+[2m[16:26:21][22m  transpile update finished [2min 23 ms[22m 
+[2m[16:26:21][22m  deeplinks update started [2m...[22m 
+[2m[16:26:21][22m  deeplinks update finished [2min 13 ms[22m 
+[2m[16:26:21][22m  webpack update started [2m...[22m 
+[2m[16:26:34][22m  webpack update finished [2min 12.97 s[22m 
+[2m[16:26:34][22m  [1m[32mbuild finished[39m[22m [2min 13.07 s[22m 
+
+[33m[16:26:37]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:27:10][22m  build started [2m...[22m 
+[2m[16:27:10][22m  transpile update started [2m...[22m 
+[2m[16:27:10][22m  transpile update finished [2min 72 ms[22m 
+[2m[16:27:10][22m  deeplinks update started [2m...[22m 
+[2m[16:27:10][22m  deeplinks update finished [2min 21 ms[22m 
+[2m[16:27:10][22m  webpack update started [2m...[22m 
+[31m[16:27:11]  typescript: src/pages/dataservice/weatherdata.service.ts, line: 48 [39m
+            Duplicate function implementation. 
+
+[2m      L48:  [22m[41mg[49m[41me[49m[41mt[49m[41mA[49m[41mQ[49m[41mI[49m():Observable<any>{     
+[2m      L49:  [22m  return this.weatherInfo.map(res=>res.HeWeather5[0].aqi);     
+
+[31m[16:27:11]  typescript: src/pages/dataservice/weatherdata.service.ts, line: 54 [39m
+            Duplicate function implementation. 
+
+[2m      L54:  [22m[41mg[49m[41me[49m[41mt[49m[41mA[49m[41mQ[49m[41mI[49m():Observable<any>{     
+[2m      L55:  [22m  return this.weatherInfo.map(res=>res.HeWeather5[0].aqi);     
+
+[2m[16:27:21][22m  webpack update finished [2min 10.86 s[22m 
+[2m[16:27:21][22m  [1m[32mbuild finished[39m[22m [2min 10.96 s[22m 
+
+[33m[16:27:24]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[16:27:41][22m  build started [2m...[22m 
+[2m[16:27:41][22m  transpile update started [2m...[22m 
+[2m[16:27:41][22m  transpile update finished [2min 33 ms[22m 
+[2m[16:27:41][22m  deeplinks update started [2m...[22m 
+[2m[16:27:41][22m  deeplinks update finished [2min 6 ms[22m 
+[2m[16:27:41][22m  webpack update started [2m...[22m 
+[2m[16:27:52][22m  webpack update finished [2min 11.59 s[22m 
+[2m[16:27:52][22m  [1m[32mbuild finished[39m[22m [2min 11.64 s[22m 
+
+[33m[16:27:55]  tslint: src/pages/dataservice/weatherdata.service.ts, line: 6 [39m
+            Unused import: 'Onedaycast' 
+
+[2m       L5:  [22mimport 'rxjs/add/operator/publishReplay';
+[2m       L6:  [22mimport {[41mO[49m[41mn[49m[41me[49m[41md[49m[41ma[49m[41my[49m[41mc[49m[41ma[49m[41ms[49m[41mt[49m} from '../home/Onedaycast';
+[2m       L7:  [22mimport {Observable} from 'rxjs/Observable';
+
+[2m[16:33:25][22m  build started [2m...[22m 
+[2m[16:33:25][22m  transpile update started [2m...[22m 
+[2m[16:33:25][22m  transpile update finished [2min 93 ms[22m 
+[2m[16:33:25][22m  deeplinks update started [2m...[22m 
+[2m[16:33:25][22m  deeplinks update finished [2min 16 ms[22m 
+[2m[16:33:25][22m  webpack update started [2m...[22m 
+[2m[16:33:35][22m  webpack update finished [2min 9.88 s[22m 
+[2m[16:33:35][22m  [1m[32mbuild finished[39m[22m [2min 10.00 s[22m 
+
+[33m[16:33:38]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:34:29][22m  build started [2m...[22m 
+[2m[16:34:30][22m  template update started [2m...[22m 
+[2m[16:34:30][22m  template update finished [2min 97 ms[22m 
+[2m[16:34:30][22m  transpile update started [2m...[22m 
+[2m[16:34:30][22m  transpile update finished [2min 31 ms[22m 
+[2m[16:34:30][22m  deeplinks update started [2m...[22m 
+[2m[16:34:30][22m  deeplinks update finished [2min 10 ms[22m 
+[2m[16:34:30][22m  webpack update started [2m...[22m 
+[2m[16:34:42][22m  webpack update finished [2min 12.40 s[22m 
+[2m[16:34:42][22m  [1m[32mbuild finished[39m[22m [2min 12.54 s[22m 
+
+[33m[16:34:44]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:35:43][22m  build started [2m...[22m 
+[2m[16:35:43][22m  transpile update started [2m...[22m 
+[2m[16:35:43][22m  transpile update finished [2min 46 ms[22m 
+[2m[16:35:43][22m  deeplinks update started [2m...[22m 
+[2m[16:35:43][22m  deeplinks update finished [2min 14 ms[22m 
+[2m[16:35:43][22m  webpack update started [2m...[22m 
+[2m[16:35:54][22m  webpack update finished [2min 10.23 s[22m 
+[2m[16:35:54][22m  [1m[32mbuild finished[39m[22m [2min 10.30 s[22m 
+
+[33m[16:35:56]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:36:33][22m  build started [2m...[22m 
+[2m[16:36:33][22m  transpile update started [2m...[22m 
+[2m[16:36:33][22m  transpile update finished [2min 86 ms[22m 
+[2m[16:36:33][22m  deeplinks update started [2m...[22m 
+[2m[16:36:33][22m  deeplinks update finished [2min 15 ms[22m 
+[2m[16:36:33][22m  webpack update started [2m...[22m 
+[2m[16:36:46][22m  webpack update finished [2min 13.23 s[22m 
+[2m[16:36:46][22m  [1m[32mbuild finished[39m[22m [2min 13.34 s[22m 
+
+[33m[16:36:49]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:37:13][22m  build started [2m...[22m 
+[2m[16:37:13][22m  transpile update started [2m...[22m 
+[2m[16:37:13][22m  transpile update finished [2min 92 ms[22m 
+[2m[16:37:13][22m  deeplinks update started [2m...[22m 
+[2m[16:37:13][22m  deeplinks update finished [2min 21 ms[22m 
+[2m[16:37:13][22m  webpack update started [2m...[22m 
+[2m[16:37:24][22m  webpack update finished [2min 10.44 s[22m 
+[2m[16:37:24][22m  [1m[32mbuild finished[39m[22m [2min 10.56 s[22m 
+
+[33m[16:37:27]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:38:13][22m  build started [2m...[22m 
+[2m[16:38:13][22m  transpile update started [2m...[22m 
+[2m[16:38:13][22m  transpile update finished [2min 78 ms[22m 
+[2m[16:38:13][22m  deeplinks update started [2m...[22m 
+[2m[16:38:13][22m  deeplinks update finished [2min 18 ms[22m 
+[2m[16:38:13][22m  webpack update started [2m...[22m 
+[31m[16:38:14]  typescript: src/pages/home/home.ts, line: 74 [39m
+            Property 'air' does not exist on type 'JSON'. 
+
+[2m      L73:  [22mthis.dataservice.getSuggestion().subscribe(data=>{
+[2m      L74:  [22m  this.suggestion.[41ma[49m[41mi[49m[41mr[49m.txt=data.air.txt;
+[2m      L75:  [22m  alert(this.suggestion.air.txt)
+
+[31m[16:38:14]  typescript: src/pages/home/home.ts, line: 75 [39m
+            Property 'air' does not exist on type 'JSON'. 
+
+[2m      L74:  [22m  this.suggestion.air.txt=data.air.txt;
+[2m      L75:  [22m  alert(this.suggestion.[41ma[49m[41mi[49m[41mr[49m.txt)
+
+[2m[16:38:17][22m  webpack update finished [2min 4.17 s[22m 
+[2m[16:38:17][22m  [1m[32mbuild finished[39m[22m [2min 4.28 s[22m 
+
+[33m[16:38:20]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:43:58][22m  build started [2m...[22m 
+[2m[16:43:58][22m  template update started [2m...[22m 
+[2m[16:43:58][22m  template update finished [2min 70 ms[22m 
+[2m[16:43:58][22m  transpile update started [2m...[22m 
+[2m[16:43:58][22m  transpile update finished [2min 23 ms[22m 
+[2m[16:43:58][22m  deeplinks update started [2m...[22m 
+[2m[16:43:58][22m  deeplinks update finished [2min 9 ms[22m 
+[2m[16:43:58][22m  webpack update started [2m...[22m 
+[2m[16:44:08][22m  webpack update finished [2min 10.25 s[22m 
+[2m[16:44:08][22m  [1m[32mbuild finished[39m[22m [2min 10.37 s[22m 
+
+[33m[16:44:11]  tslint: src/pages/home/home.ts, line: 2 [39m
+            Unused import: 'NavController' 
+
+[2m       L1:  [22mimport { Component ,OnInit} from '@angular/core';
+[2m       L2:  [22mimport { [41mN[49m[41ma[49m[41mv[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport 'rxjs/add/operator/map';
+
+[2m[16:44:40][22m  build started [2m...[22m 
+[2m[16:44:40][22m  sass update started [2m...[22m 
+[2m[16:44:41][22m  sass update finished [2min 1.38 s[22m 
+[2m[16:44:41][22m  [1m[32mbuild finished[39m[22m [2min 1.39 s[22m 
+
+[2m[16:45:07][22m  build started [2m...[22m 
+[2m[16:45:07][22m  sass update started [2m...[22m 
+[2m[16:45:08][22m  sass update finished [2min 999 ms[22m 
+[2m[16:45:08][22m  [1m[32mbuild finished[39m[22m [2min 1.00 s[22m 
+
+[2m[16:47:42][22m  build started [2m...[22m 
+[2m[16:47:42][22m  template update started [2m...[22m 
+[2m[16:47:42][22m  template update finished [2min 125 ms[22m 
+[2m[16:47:42][22m  [1m[32mbuild finished[39m[22m [2min 127 ms[22m 
+
+[2m[16:48:12][22m  build started [2m...[22m 
+[2m[16:48:12][22m  template update started [2m...[22m 
+[2m[16:48:12][22m  template update finished [2min 56 ms[22m 
+[2m[16:48:12][22m  [1m[32mbuild finished[39m[22m [2min 57 ms[22m 
+
+[2m[16:48:21][22m  build started [2m...[22m 
+[2m[16:48:21][22m  template update started [2m...[22m 
+[2m[16:48:21][22m  template update finished [2min 54 ms[22m 
+[2m[16:48:21][22m  [1m[32mbuild finished[39m[22m [2min 61 ms[22m 
+
+[2m[16:49:35][22m  build started [2m...[22m 
+[2m[16:49:35][22m  template update started [2m...[22m 
+[2m[16:49:35][22m  template update finished [2min 81 ms[22m 
+[2m[16:49:35][22m  [1m[32mbuild finished[39m[22m [2min 84 ms[22m 
+
+[2m[16:49:58][22m  build started [2m...[22m 
+[2m[16:49:58][22m  template update started [2m...[22m 
+[2m[16:49:58][22m  template update finished [2min 64 ms[22m 
+[2m[16:49:58][22m  [1m[32mbuild finished[39m[22m [2min 66 ms[22m 
+
+[2m[16:50:06][22m  build started [2m...[22m 
+[2m[16:50:06][22m  template update started [2m...[22m 
+[2m[16:50:06][22m  template update finished [2min 50 ms[22m 
+[2m[16:50:06][22m  [1m[32mbuild finished[39m[22m [2min 51 ms[22m 
+
+[2m[16:51:18][22m  build started [2m...[22m 
+[2m[16:51:18][22m  template update started [2m...[22m 
+[2m[16:51:18][22m  template update finished [2min 43 ms[22m 
+[2m[16:51:18][22m  [1m[32mbuild finished[39m[22m [2min 45 ms[22m 
+
+[2m[16:51:27][22m  build started [2m...[22m 
+[2m[16:51:27][22m  template update started [2m...[22m 
+[2m[16:51:27][22m  template update finished [2min 48 ms[22m 
+[2m[16:51:27][22m  [1m[32mbuild finished[39m[22m [2min 51 ms[22m 
+
+[2m[16:53:13][22m  build started [2m...[22m 
+[2m[16:53:13][22m  sass update started [2m...[22m 
+[2m[16:53:14][22m  sass update finished [2min 861 ms[22m 
+[2m[16:53:14][22m  [1m[32mbuild finished[39m[22m [2min 862 ms[22m 
+
+[2m[16:53:36][22m  build started [2m...[22m 
+[2m[16:53:36][22m  template update started [2m...[22m 
+[2m[16:53:36][22m  template update finished [2min 62 ms[22m 
+[2m[16:53:36][22m  [1m[32mbuild finished[39m[22m [2min 65 ms[22m 
+
+[2m[16:54:07][22m  build started [2m...[22m 
+[2m[16:54:07][22m  template update started [2m...[22m 
+[2m[16:54:07][22m  template update finished [2min 58 ms[22m 
+[2m[16:54:07][22m  [1m[32mbuild finished[39m[22m [2min 59 ms[22m 
+
+[2m[16:54:11][22m  build started [2m...[22m 
+[2m[16:54:11][22m  template update started [2m...[22m 
+[2m[16:54:11][22m  template update finished [2min 72 ms[22m 
+[2m[16:54:11][22m  [1m[32mbuild finished[39m[22m [2min 73 ms[22m 
+
+[2m[16:56:37][22m  build started [2m...[22m 
+[2m[16:56:37][22m  template update started [2m...[22m 
+[2m[16:56:37][22m  template update finished [2min 88 ms[22m 
+[2m[16:56:37][22m  [1m[32mbuild finished[39m[22m [2min 93 ms[22m 
+

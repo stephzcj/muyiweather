@@ -1,6 +1,5 @@
 import { Component ,OnInit} from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { Http, Response,Jsonp,Headers } from '@angular/http';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/toPromise';
 import {Onedaycast} from './onedaycast';
@@ -10,27 +9,81 @@ import {WeatherDataService} from '../dataservice/weatherdata.service'
   templateUrl: 'home.html'
 })
 export class HomePage implements OnInit{
-  public aaa:any;
-  forecasts:Onedaycast[];
-  res:any;
+  forecasts:Onedaycast[]=[];
   city:String;
-  constructor(private jsonp:Jsonp,private dataservice:WeatherDataService) {
-      }
+  time:String;
+  nowWeather:String;
+  nowTemp:String;
+  aqi:String;
+  pm25:String;
+  quality:String;
+  airSuggestion:String;
+  sportSuggestion:String;
+  uvSuggestion:String;
+  travSuggestion:String;
+  wearSuggestion:String;
+  constructor(private dataservice:WeatherDataService) {}
   ngOnInit(): void {
-    this.forecasts=this.getForecasts();
-    this.city="城市";
-    this.dataservice.getInfoByUrl("/").subscribe(data => console.log(data));
-    
-}
+    this.initForecasts();
+    this.initBasicInfo();
+    this.initNow();
+    this.initAQI();
+    this.initSuggestion();
+  }  
+/**
+ * 将从后台取出的【三天天气预报】数据绑定到前台变量上
+ */
+  initForecasts():void{
+    this.dataservice.get3DayWeather().subscribe(data => {
+      for(let index=0;index<3;index++){
+        let dayweather:Onedaycast={weather:data[index].cond.txt_d,date:data[index].date,maxTemp:data[index].tmp.max+"℃",minTemp:data[index].tmp.min+"℃"};
+        this.forecasts.push(dayweather);
+      }
+    });
+  } 
+  /**
+  * 将从后台取出的【基本信息】数据绑定到前台变量上
+  */  
+  initBasicInfo():void{
+    this.dataservice.getBasicInfo().subscribe(data=>{
+      this.city=data.city;
+      this.time=data.update.loc.split(" ")[1];
+      
+    })
+  }
+  /**
+  * 将从后台取出的【实况天气】数据绑定到前台变量上
+  */  
+  initNow():void{
+    this.dataservice.getNowWeather().subscribe(data=>{
+      this.nowTemp=data.tmp;
+      this.nowWeather=data.cond.txt;
+    })
+  }
+  /**
+  * 将从后台取出的【AQI】数据绑定到前台变量上
+  */  
+  initAQI():void{
+    this.dataservice.getAQI().subscribe(data=>{
+      this.aqi=data.city.aqi;
+      this.pm25=data.city.pm25;
+      this.quality=data.city.qlty;
+    })
+  }
+  /**
+  * 将从后台取出的【生活建议】数据绑定到前台变量上
+  */  
+  initSuggestion():void{
+    this.dataservice.getSuggestion().subscribe(data=>{
+      this.airSuggestion=data.air.txt;
+      this.sportSuggestion=data.sport.txt;
+      this.uvSuggestion=data.uv.txt;
+      this.travSuggestion=data.trav.txt;
+      this.wearSuggestion=data.drsg.txt;
+    })
+  }
 
 
-  getForecasts():Onedaycast[]{
-    let onedaycast:Onedaycast[]=[
-    {date:"2017-4-4",weather:"晴天",maxTemp:"36℃",minTemp:"16℃"},
-    {date:"2017-4-5",weather:"晴天",maxTemp:"36℃",minTemp:"16℃"},
-    {date:"2017-4-6",weather:"晴天",maxTemp:"36℃",minTemp:"16℃"}];
-    return onedaycast; 
-  }   
 }
 
 

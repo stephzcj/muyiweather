@@ -1,16 +1,15 @@
-<ion-header>
-  <ion-navbar>
-    <button ion-button menuToggle icon-only>
-      <ion-icon name="menu"></ion-icon>
-    </button>
-    <ion-title class="title">{{city}}</ion-title>
-  </ion-navbar>
-</ion-header>
-
 <ion-content padding class="home">
+  <ion-grid>
+    <ion-row >
+      <ion-col align-items-start style="text-align:left;"><button ion-button menuToggle icon-only style="background-color: rgba(0,0,0,0.1);"><ion-icon name="menu"></ion-icon></button></ion-col>
+      <ion-col align-self-center style="text-align:center;"><ion-title class="title">{{city}}</ion-title></ion-col>
+      <ion-col align-self-center style="font-size:130%;text-align:right">{{time}}</ion-col>
+    </ion-row>
+  </ion-grid>
+
   <div class="now">
-    <div style="margin-bottom:0px;font-size:230%;">26℃</div>
-    <div style="margin-top:0px;">多云{{res}}</div>
+    <div style="margin-bottom:0px;font-size:230%;">{{nowTemp}}℃</div>
+    <div style="margin-top:0px;">{{nowWeather}}</div>
   </div>
 
   <ion-card class="card">
@@ -32,15 +31,17 @@
   <ion-card class="card">
     <ion-card-content>
     <ion-card-title class="card-title">
-      Air Quaility
+      Air Quality
     </ion-card-title>
-      <ion-row  style="text-align:center;font-size:350%">
-        <ion-col col-6><div>23</div></ion-col>
-        <ion-col col-6><div>33</div></ion-col>
+      <ion-row  style="text-align:center;font-size:310%">
+        <ion-col col-4>{{aqi}}</ion-col>
+        <ion-col col-4>{{pm25}}</ion-col>
+        <ion-col col-4>{{quality}}</ion-col>
       </ion-row>
       <ion-row  style="text-align:center;">
-        <ion-col col-6><div>AQI</div></ion-col>
-        <ion-col col-6><div>PM25</div></ion-col>
+        <ion-col col-4><div>AQI</div></ion-col>
+        <ion-col col-4><div>PM25</div></ion-col>
+        <ion-col col-4><div>Quality</div></ion-col>
       </ion-row>
     </ion-card-content>
   </ion-card>
@@ -50,17 +51,25 @@
     <ion-card-title class="card-title">
       Life Sueggestion
     </ion-card-title>
-      <ion-row style="font-size:110%">
-         Sports
+      <ion-row>
+        <ion-col col-2 align-self-center class="suggestion-title">Air</ion-col>
+        <ion-col>{{airSuggestion}}</ion-col>
       </ion-row>
       <ion-row>
-        Sports ........
-      </ion-row>
-      <ion-row style="font-size:110%">
-         Heading out
+        <ion-col col-2 align-self-center class="suggestion-title">Sport</ion-col>
+        <ion-col>{{sportSuggestion}}</ion-col>
       </ion-row>
       <ion-row>
-        Heading out........
+        <ion-col col-2 align-self-center class="suggestion-title">UV</ion-col>
+        <ion-col>{{uvSuggestion}}</ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col col-2 align-self-center class="suggestion-title">Travel</ion-col>
+        <ion-col>{{travSuggestion}}</ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col col-2 align-self-center class="suggestion-title">Wear</ion-col>
+        <ion-col>{{wearSuggestion}}</ion-col>
       </ion-row>
     </ion-card-content>
   </ion-card>

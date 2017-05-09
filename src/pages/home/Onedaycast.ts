@@ -3,10 +3,7 @@ export class Onedaycast{
     weather:String;
     maxTemp:String;
     minTemp:String;
-    constructor(idate:String,
-    iweather:String,
-    imaxTemp:String,
-    iminTemp:String){
+    constructor(idate:String,iweather:String,imaxTemp:String,iminTemp:String){
         this.date=idate;
         this.maxTemp=imaxTemp;
         this.minTemp=iminTemp;
