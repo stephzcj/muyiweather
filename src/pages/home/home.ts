@@ -1,5 +1,5 @@
 import { Component ,OnInit} from '@angular/core';
-import { NavController } from 'ionic-angular';
+import { NavController ,NavParams} from 'ionic-angular';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/toPromise';
 import {Onedaycast} from './onedaycast';
@@ -10,19 +10,31 @@ import {WeatherDataService} from '../dataservice/weatherdata.service'
 })
 export class HomePage implements OnInit{
   forecasts:Onedaycast[]=[];
-  city:String;
-  time:String;
-  nowWeather:String;
-  nowTemp:String;
-  aqi:String;
-  pm25:String;
-  quality:String;
-  airSuggestion:String;
-  sportSuggestion:String;
-  uvSuggestion:String;
-  travSuggestion:String;
-  wearSuggestion:String;
-  constructor(private dataservice:WeatherDataService) {}
+  city:string;
+  time:string;
+  nowWeather:string;
+  nowTemp:string;
+  aqi:string;
+  pm25:string;
+  quality:string;
+  airSuggestion:string;
+  sportSuggestion:string;
+  uvSuggestion:string;
+  travSuggestion:string;
+  wearSuggestion:string;
+  selectedCityId:string;
+  selectedCity:any;
+  constructor(private dataservice:WeatherDataService,private navParams:NavParams) {
+    this.selectedCity = navParams.get('item');
+    if(this.selectedCity!=null && this.selectedCity!=""){
+      this.selectedCityId=this.selectedCity.cityId;
+      this.dataservice.getAllWeatherInfo(this.selectedCityId);
+    }else{
+      //TODO:暂时给定桐庐
+      this.selectedCityId="CN101210103";
+      this.dataservice.getAllWeatherInfo(this.selectedCityId);
+    }
+  }
   ngOnInit(): void {
     this.initForecasts();
     this.initBasicInfo();

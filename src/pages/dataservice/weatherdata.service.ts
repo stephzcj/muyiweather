@@ -5,23 +5,48 @@ import 'rxjs/add/operator/take';
 import 'rxjs/add/operator/publishReplay';
 import {Onedaycast} from '../home/Onedaycast';
 import {Observable} from 'rxjs/Observable';
+import {ConnectService} from './connect.service'
 
 @Injectable()
 export class WeatherDataService{
-    callback:string="?callback=JSONP_CALLBACK";
-    publicUrl:string="http://localhost:8080";
     weatherInfo:Observable<any>;
-    constructor(private jsonp:Jsonp,private http:Http){
-        //从后台一次取出所有数据,注意要使用publishReplay来cache流
-        this.weatherInfo=this.getInfoByUrl("/").publishReplay(1,1000).refCount().take(1);
+    constructor(private jsonp:Jsonp,private http:Http,private connectService:ConnectService){
+       
+       //
+       
+       //his.weatherInfo=this.connectService.getInfoFromPubNet(hefengUrl).publishReplay(1,1000).refCount().take(1);
     }
 
     /**
-     * jsonp访问后台
+     *从后台一次取出所有数据,注意要使用publishReplay来cache流,否则流只能被消费一次 
      */
-    getInfoByUrl(extraurl:string):Observable<any>{
-         let url=this.publicUrl+extraurl+this.callback;
-        return this.jsonp.get(url).map(res=>res.json());
+    getAllWeatherInfo(cityId:string):Observable<any>{
+      let hefengUrl="https://free-api.heweather.com/v5/weather?city="+cityId+"&key=0be3745ab0a54ef4bd7f8c6a3c9fcd95";
+      let params={"cityId":cityId};
+       return this.weatherInfo=this.connectService.postInfoFromBackend("/",{params:params}).map(res=>res.json()).publishReplay(1,1000).refCount().take(1);
+       //his.weatherInfo=this.connectService.getInfoFromPubNet(hefengUrl).publishReplay(1,1000).refCount().take(1);
+  }
+
+
+    /**
+     *取省级基本信息
+     */
+    getProvinceInfo():Observable<any>{
+        return this.connectService.getInfoFromBackend("/province").map(res=>res.json());
+    }
+    /**
+     *取市级基本信息
+     */
+    getCityInfo(provinceId:string):Observable<any>{
+        let params={"provinceId":provinceId};
+        return this.connectService.postInfoFromBackend("/city",{params:params}).map(res=>res.json());
+    }
+    /**
+     *取县级基本信息
+     */
+    getCountyInfo(provinceId:string,cityId:string):Observable<any>{
+        let params={"provinceId":provinceId,"cityId":cityId};
+        return this.connectService.postInfoFromBackend("/county",{params:params}).map(res=>res.json());
     }
     /**
      *取基本信息
@@ -29,7 +54,6 @@ export class WeatherDataService{
     getBasicInfo():Observable<any>{
         return this.weatherInfo.map(res=>res.HeWeather5[0].basic);
     }
-
     /**
      *取三天预报
      */

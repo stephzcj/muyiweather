@@ -8,12 +8,13 @@
 .nav-bar{
     text-align: center;
 }
-// .home{
-//     background-image: url(http://cn.bing.com/az/hprichbg/rb/NavagioBeach_ZH-CN8854639142_1920x1080.jpg);
-// }
+.home{
+    background-image: url(http://cn.bing.com/az/hprichbg/rb/NavagioBeach_ZH-CN8854639142_1920x1080.jpg);
+}
 .card{
     background-color: rgba(0,0,0,0.25);
     text-align: left;
+    color: white;
 }
 .now{
     text-align: right;
@@ -21,8 +22,9 @@
 }
 
 .card-title{
-    font-family:Consolas;
+    font-family:"华文细黑";
     text-align: left;
+    color: white;
 }
 .suggestion-title{
     font-size:140%;
