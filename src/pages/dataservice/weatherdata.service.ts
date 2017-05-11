@@ -3,7 +3,6 @@ import {Jsonp,Http} from '@angular/http';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/take';
-import 'rxjs/add/observable/throw'
 import 'rxjs/add/operator/publishReplay';
 import {Onedaycast} from '../home/Onedaycast';
 import {Observable} from 'rxjs/Observable';
@@ -54,47 +53,32 @@ export class WeatherDataService{
      *取基本信息
      */
     getBasicInfo():Observable<any>{
-        return this.weatherInfo.map(res=>res.HeWeather5[0].basic).catch(this.handleError);
+        return this.weatherInfo.map(res=>res.HeWeather5[0].basic);
     }
     /**
      *取三天预报
      */
     get3DayWeather():Observable<any>{     
-      return this.weatherInfo.map(res=>res.HeWeather5[0].daily_forecast).catch(this.handleError);     
+      return this.weatherInfo.map(res=>res.HeWeather5[0].daily_forecast);     
     }
     /**
      *取实况天气
      */
     getNowWeather():Observable<any>{     
-      return this.weatherInfo.map(res=>res.HeWeather5[0].now).catch(this.handleError);     
+      return this.weatherInfo.map(res=>res.HeWeather5[0].now);     
     }
     /**
      *取AQI
      */
     getAQI():Observable<any>{     
-      return this.weatherInfo.map(res=>res.HeWeather5[0].aqi).catch(this.handleError);     
+      return this.weatherInfo.map(res=>res.HeWeather5[0].aqi);     
     }
     /**
      *取生活建议
      */
     getSuggestion():Observable<any>{     
-      return this.weatherInfo.map(res=>res.HeWeather5[0].suggestion).catch(this.handleError);     
+      return this.weatherInfo.map(res=>res.HeWeather5[0].suggestion);     
     }
 
-    private handleError (error: Response | any) {
-        // In a real world app, you might use a remote logging infrastructure
-        let errMsg: string;
-        if (error instanceof Response) {
-          const body = error.json() || '';
-          const err = JSON.stringify(body);
-          errMsg = `${error.status} - ${error.statusText || ''} ${err}`;
-          console.log("if:"+errMsg);
-        } else {
-          errMsg = error.message ? error.message : error.toString();
-          console.log("else:"+errMsg);
-        }
-        
-        return Observable.throw(errMsg);
-    }
 
 }

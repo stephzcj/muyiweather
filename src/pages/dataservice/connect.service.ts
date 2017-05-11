@@ -1,6 +1,7 @@
 import {Injectable} from '@angular/core';
 import {Jsonp,Http} from '@angular/http';
 import 'rxjs/add/operator/map';
+import 'rxjs/add/observable/throw'
 import {Observable} from 'rxjs/Observable';
 
 @Injectable()
@@ -13,7 +14,7 @@ export class ConnectService{
      */
     getInfoFromBackend(extraurl:string):Observable<any>{
         let url=this.publicUrl+extraurl;
-        return this.http.get(url);
+        return this.http.get(url).catch(this.handleError);
     }
     /**
      * 用http的post方法访问muyiweather的后台服务器
@@ -27,7 +28,7 @@ export class ConnectService{
      */
      postInfoFromBackend(extraurl:string,options?:any):Observable<any>{
          let url=this.publicUrl+extraurl;
-         return this.http.post(url,"",options);
+         return this.http.post(url,"",options).catch(this.handleError);
      }
     /**
      * 用http的get方法访问公网API，但浏览器调试时需要设置跨域
@@ -35,7 +36,7 @@ export class ConnectService{
      * open -a "Google Chrome" --args --disable-web-security –user-data-dir="[your directory]"
      */
     getInfoFromPubNet(url:string):Observable<any>{
-        return this.http.get(url);
+        return this.http.get(url).catch(this.handleError);
     }
      /**
      * 用http的post方法访问公网API，但浏览器调试时需要设置跨域
@@ -50,7 +51,22 @@ export class ConnectService{
      * responseType?: ResponseContentType;
      */
     postInfoFromPubNet(url:string,options?:any):Observable<any>{
-        return this.http.post(url,"",options);
+        return this.http.post(url,"",options).catch(this.handleError);
+    }
+
+    private handleError (error: Response | any) {
+        // In a real world app, you might use a remote logging infrastructure
+        let errMsg: string;
+        if (error instanceof Response) {
+          const body = error.json() || '';
+          const err = JSON.stringify(body);
+          errMsg = `${error.status} - ${error.statusText || ''} ${err}`;
+          console.log("if:"+errMsg);
+        } else {
+          errMsg = error.message ? error.message : error.toString();
+          console.log("else:"+errMsg);
+        }      
+        return Observable.throw(errMsg);
     }
 
 
