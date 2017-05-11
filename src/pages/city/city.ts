@@ -1,13 +1,13 @@
-import { Component ,ViewChild} from '@angular/core';
+import { Component ,ViewChild,OnInit} from '@angular/core';
 import { NavController, NavParams,Nav} from 'ionic-angular';
 import {WeatherDataService} from '../dataservice/weatherdata.service';
 import {HomePage} from '../home/home'
 
 @Component({
-  selector: 'page-list',
+  selector: 'city-list',
   templateUrl: 'city.html'
 })
-export class CityPage {
+export class CityPage implements OnInit{
   @ViewChild(Nav) nav: Nav;
   selectedItem: any;
   cityListTitle:string;
@@ -15,10 +15,13 @@ export class CityPage {
   items: Array<{cityId: string, cityName: string,level:number,preCityId:string}>;//level定义当前item级别：1省 2市 3县
 
   constructor(public navCtrl: NavController, public navParams: NavParams,private weatherDataService:WeatherDataService){
-    // If we navigated to this page, we will have an item available as a nav param
+    // 如果导航到此页，则可以通过NavParams取到跳转过来时的参数
     this.selectedItem = navParams.get('item');
-    this.items = [];
-    if(this.selectedItem==null || this.selectedItem==""){//查询省级
+    this.items = []; 
+  }
+
+  ngOnInit(): void {
+      if(this.selectedItem==null || this.selectedItem==""){//查询省级
         this.cityListTitle="中国";
         this.weatherDataService.getProvinceInfo().subscribe(data=>{
             for(let index=0;index<data.length;index++){
@@ -59,11 +62,11 @@ export class CityPage {
     }
   }
    itemTapped(event, item) {
-       if(item.level==3){
+       if(item.level==3){//如果是县级，就跳转home页显示具体天气信息
            this.navCtrl.push(HomePage,{
             item: item
          });
-       }else{
+       }else{//否则跳转本页继续显示下级市县
          this.navCtrl.push(CityPage,{
             item: item
          });

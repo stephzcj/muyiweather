@@ -1,6 +1,7 @@
 import { Component ,OnInit} from '@angular/core';
 import { NavController ,NavParams} from 'ionic-angular';
 import 'rxjs/add/operator/map';
+import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/toPromise';
 import {Onedaycast} from './onedaycast';
 import {WeatherDataService} from '../dataservice/weatherdata.service'
@@ -9,7 +10,7 @@ import {WeatherDataService} from '../dataservice/weatherdata.service'
   templateUrl: 'home.html'
 })
 export class HomePage implements OnInit{
-  forecasts:Onedaycast[]=[];
+  forecasts:Onedaycast[];
   city:string;
   time:string;
   nowWeather:string;
@@ -26,6 +27,9 @@ export class HomePage implements OnInit{
   selectedCity:any;
   constructor(private dataservice:WeatherDataService,private navParams:NavParams) {
     this.selectedCity = navParams.get('item');
+    this.forecasts=[];
+  }
+  ngOnInit(): void {
     if(this.selectedCity!=null && this.selectedCity!=""){
       this.selectedCityId=this.selectedCity.cityId;
       this.dataservice.getAllWeatherInfo(this.selectedCityId);
@@ -34,8 +38,6 @@ export class HomePage implements OnInit{
       this.selectedCityId="CN101210103";
       this.dataservice.getAllWeatherInfo(this.selectedCityId);
     }
-  }
-  ngOnInit(): void {
     this.initForecasts();
     this.initBasicInfo();
     this.initNow();
@@ -47,8 +49,20 @@ export class HomePage implements OnInit{
  */
   initForecasts():void{
     this.dataservice.get3DayWeather().subscribe(data => {
+      if(data!=undefined){
+        for(let index=0;index<3;index++){
+          let dayweather:Onedaycast={weather:data[index].cond.txt_d,date:data[index].date,maxTemp:data[index].tmp.max+"℃",minTemp:data[index].tmp.min+"℃"};
+          this.forecasts.push(dayweather);
+        }
+      }else{
+        for(let index=0;index<3;index++){
+          let dayweather:Onedaycast={weather:"N/A",date:"N/A",maxTemp:"N/A",minTemp:"N/A"};
+          this.forecasts.push(dayweather);
+        }
+      }     
+    },error=>{
       for(let index=0;index<3;index++){
-        let dayweather:Onedaycast={weather:data[index].cond.txt_d,date:data[index].date,maxTemp:data[index].tmp.max+"℃",minTemp:data[index].tmp.min+"℃"};
+        let dayweather:Onedaycast={weather:"N/A",date:"N/A",maxTemp:"N/A",minTemp:"N/A"};
         this.forecasts.push(dayweather);
       }
     });
@@ -58,18 +72,33 @@ export class HomePage implements OnInit{
   */  
   initBasicInfo():void{
     this.dataservice.getBasicInfo().subscribe(data=>{
-      this.city=data.city;
-      this.time=data.update.loc.split(" ")[1];
-      
-    })
+      if (data!=undefined) {
+        this.city=data.city;
+        this.time=data.update.loc.split(" ")[1]; 
+      }else{
+        this.city="N/A";
+        this.time="N/A"; 
+      }   
+    },error=>{
+       this.city="N/A";
+       this.time="N/A";  
+    });
   }
   /**
   * 将从后台取出的【实况天气】数据绑定到前台变量上
   */  
   initNow():void{
     this.dataservice.getNowWeather().subscribe(data=>{
-      this.nowTemp=data.tmp;
-      this.nowWeather=data.cond.txt;
+      if (data!=undefined) {
+        this.nowTemp=data.tmp;
+        this.nowWeather=data.cond.txt;
+      }else{
+        this.nowTemp="N/A";
+        this.nowWeather="N/A"; 
+      }
+    },error=>{
+      this.nowTemp="N/A";
+      this.nowWeather="N/A";  
     })
   }
   /**
@@ -77,9 +106,19 @@ export class HomePage implements OnInit{
   */  
   initAQI():void{
     this.dataservice.getAQI().subscribe(data=>{
-      this.aqi=data.city.aqi;
-      this.pm25=data.city.pm25;
-      this.quality=data.city.qlty;
+      if(data!=undefined){
+        this.aqi=data.city.aqi;
+        this.pm25=data.city.pm25;
+        this.quality=data.city.qlty;
+      }else{
+        this.aqi="N/A";
+        this.pm25="N/A";  
+        this.quality="N/A";  
+      }
+    },error=>{
+      this.aqi="N/A";
+      this.pm25="N/A";  
+      this.quality="N/A";  
     })
   }
   /**
@@ -87,11 +126,25 @@ export class HomePage implements OnInit{
   */  
   initSuggestion():void{
     this.dataservice.getSuggestion().subscribe(data=>{
-      this.airSuggestion=data.air.txt;
-      this.sportSuggestion=data.sport.txt;
-      this.uvSuggestion=data.uv.txt;
-      this.travSuggestion=data.trav.txt;
-      this.wearSuggestion=data.drsg.txt;
+      if (data!=undefined) {
+        this.airSuggestion=data.air.txt;
+        this.sportSuggestion=data.sport.txt;
+        this.uvSuggestion=data.uv.txt;
+        this.travSuggestion=data.trav.txt;
+        this.wearSuggestion=data.drsg.txt;
+      }else{
+        this.airSuggestion="N/A";
+        this.sportSuggestion="N/A";
+        this.uvSuggestion="N/A";
+        this.travSuggestion="N/A";
+        this.wearSuggestion="N/A";
+      }
+    },error=>{
+      this.airSuggestion="N/A";
+      this.sportSuggestion="N/A";
+      this.uvSuggestion="N/A";
+      this.travSuggestion="N/A";
+      this.wearSuggestion="N/A";  
     })
   }
 
