@@ -13,7 +13,6 @@ export class CityPage implements OnInit{
   cityListTitle:string;
   icons: string[];
   items: Array<{cityId: string, cityName: string,level:number,preCityId:string}>;//level定义当前item级别：1省 2市 3县
-
   constructor(public navCtrl: NavController, public navParams: NavParams,private weatherDataService:WeatherDataService){
     // 如果导航到此页，则可以通过NavParams取到跳转过来时的参数
     this.selectedItem = navParams.get('item');

@@ -11,12 +11,7 @@ import {ConnectService} from './connect.service'
 @Injectable()
 export class WeatherDataService{
     weatherInfo:Observable<any>;
-    constructor(private jsonp:Jsonp,private http:Http,private connectService:ConnectService){
-       
-       //
-       
-       //his.weatherInfo=this.connectService.getInfoFromPubNet(hefengUrl).publishReplay(1,1000).refCount().take(1);
-    }
+    constructor(private jsonp:Jsonp,private http:Http,private connectService:ConnectService){}
 
     /**
      *从后台一次取出所有数据,注意要使用publishReplay来cache流,否则流只能被消费一次 
@@ -29,6 +24,12 @@ export class WeatherDataService{
   }
 
 
+    /**
+     *取省级基本信息
+     */
+    getBackgroundImgUrl():Observable<any>{
+      return this.connectService.getInfoFromBackend("/bgUrl").map(res=>res.json());
+    }
     /**
      *取省级基本信息
      */

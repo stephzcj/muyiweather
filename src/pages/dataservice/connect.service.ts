@@ -26,7 +26,7 @@ export class ConnectService{
      * withCredentials?: boolean;
      * responseType?: ResponseContentType;
      */
-     postInfoFromBackend(extraurl:string,options?:any):Observable<any>{
+     postInfoFromBackend(extraurl:string,options?:any):Observable<Response>{
          let url=this.publicUrl+extraurl;
          return this.http.post(url,"",options).catch(this.handleError);
      }

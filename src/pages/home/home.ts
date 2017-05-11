@@ -25,12 +25,13 @@ export class HomePage implements OnInit{
   wearSuggestion:string;
   selectedCityId:string;
   selectedCity:any;
+  imgFromNet:string;
   constructor(private dataservice:WeatherDataService,private navParams:NavParams) {
     this.selectedCity = navParams.get('item');
     this.forecasts=[];
   }
   ngOnInit(): void {
-    if(this.selectedCity!=null && this.selectedCity!=""){
+    if(this.selectedCity!=null && this.selectedCity!=""){//如果有选择城市
       this.selectedCityId=this.selectedCity.cityId;
       this.dataservice.getAllWeatherInfo(this.selectedCityId);
     }else{
@@ -43,10 +44,17 @@ export class HomePage implements OnInit{
     this.initNow();
     this.initAQI();
     this.initSuggestion();
+    this.initBackgroundImg();
+  }
+  /**
+   * 将从后台取出的【背景图】数据绑定到前台变量上
+   */
+  initBackgroundImg():void{
+    this.dataservice.getBackgroundImgUrl().subscribe(data=>this.imgFromNet="url("+data+")");
   }  
-/**
- * 将从后台取出的【三天天气预报】数据绑定到前台变量上
- */
+  /**
+   * 将从后台取出的【三天天气预报】数据绑定到前台变量上
+   */
   initForecasts():void{
     this.dataservice.get3DayWeather().subscribe(data => {
       if(data!=undefined){
