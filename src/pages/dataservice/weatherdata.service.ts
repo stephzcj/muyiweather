@@ -25,10 +25,16 @@ export class WeatherDataService{
 
 
     /**
-     *取省级基本信息
+     *取图片URL，后台从郭霖的服务器取
      */
     getBackgroundImgUrl():Observable<any>{
       return this.connectService.getInfoFromBackend("/bgUrl").map(res=>res.json());
+    }
+    /**
+     *取图片URL，直接取得后台静态资源
+     */
+    getBackgroundImgUrl2(weather:string):Observable<any>{
+      return this.connectService.getInfoFromBackend("/resource/pic"+"?weather="+weather).map(res=>res.json());
     }
     /**
      *取省级基本信息

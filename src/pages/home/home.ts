@@ -60,14 +60,8 @@ export class HomePage implements OnInit{
     this.initNow();
     this.initAQI();
     this.initSuggestion();
-    this.initBackgroundImg();
   }
-  /**
-   * 将从后台取出的【背景图】数据绑定到前台变量上
-   */
-  initBackgroundImg():void{
-    this.dataservice.getBackgroundImgUrl().subscribe(data=>this.imgFromNet="url("+data+")");
-  }  
+  
   /**
    * 将从后台取出的【三天天气预报】数据绑定到前台变量上
    */
@@ -99,6 +93,7 @@ export class HomePage implements OnInit{
       if (data!=undefined) {
         this.city=data.city;
         this.time=data.update.loc.split(" ")[1]; 
+        this.dataservice.getBackgroundImgUrl2(data.cond.txt).subscribe(data=>this.imgFromNet="url("+data+")");
       }else{
         this.city="N/A";
         this.time="N/A"; 
@@ -110,6 +105,7 @@ export class HomePage implements OnInit{
   }
   /**
   * 将从后台取出的【实况天气】数据绑定到前台变量上
+  * 将从后台取出的【背景图】数据绑定到前台变量上
   */  
   initNow():void{
     this.dataservice.getNowWeather().subscribe(data=>{
