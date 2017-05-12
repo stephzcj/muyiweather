@@ -2,7 +2,7 @@ import { Component ,ViewChild,OnInit} from '@angular/core';
 import { NavController, NavParams,Nav} from 'ionic-angular';
 import {WeatherDataService} from '../dataservice/weatherdata.service';
 import {HomePage} from '../home/home'
-
+import { Storage } from '@ionic/storage'
 @Component({
   selector: 'city-list',
   templateUrl: 'city.html'
@@ -13,7 +13,8 @@ export class CityPage implements OnInit{
   cityListTitle:string;
   icons: string[];
   items: Array<{cityId: string, cityName: string,level:number,preCityId:string}>;//level定义当前item级别：1省 2市 3县
-  constructor(public navCtrl: NavController, public navParams: NavParams,private weatherDataService:WeatherDataService){
+  constructor(public navCtrl: NavController, public navParams: NavParams,
+  private weatherDataService:WeatherDataService,private storage:Storage){
     // 如果导航到此页，则可以通过NavParams取到跳转过来时的参数
     this.selectedItem = navParams.get('item');
     this.items = []; 
@@ -61,14 +62,17 @@ export class CityPage implements OnInit{
     }
   }
    itemTapped(event, item) {
-       if(item.level==3){//如果是县级，就跳转home页显示具体天气信息
-           this.navCtrl.push(HomePage,{
-            item: item
-         });
+       if(item.level==3){//如果是县级，把选择持久化，然后跳转home页显示具体天气信息
+            this.storage.ready().then(() => {
+                this.storage.set('selectedCity', item);
+            });
+            this.navCtrl.push(HomePage,{
+                item: item
+            });
        }else{//否则跳转本页继续显示下级市县
-         this.navCtrl.push(CityPage,{
-            item: item
-         });
+           this.navCtrl.push(CityPage,{
+              item: item
+           });
        }
   }
 

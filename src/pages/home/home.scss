@@ -1,6 +1,11 @@
-.title{
+.title-city{
     text-align: center; 
-    vertical-align:center;
+    vertical-align:center;  
+    font-size: 150%;
+}
+.title-time{
+    font-size:130%;
+    text-align:right;
 }
 .time{
     text-align: right;
@@ -10,11 +15,11 @@
 }
 .home{
     background-image: url(http://cn.bing.com/az/hprichbg/rb/NavagioBeach_ZH-CN8854639142_1920x1080.jpg);
+    color: white;
 }
 .card{
     background-color: rgba(0,0,0,0.25);
-    text-align: left;
-    color: white;
+    text-align: left;  
 }
 .now{
     text-align: right;
@@ -23,8 +28,8 @@
 
 .card-title{
     font-family:"华文细黑";
-    text-align: left;
-    color: white;
+    text-align: left; 
+    color: white;  
 }
 .suggestion-title{
     font-size:140%;

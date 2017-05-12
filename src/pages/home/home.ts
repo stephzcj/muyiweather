@@ -1,9 +1,11 @@
 import { Component ,OnInit} from '@angular/core';
+import { Storage } from '@ionic/storage'
 import { NavController ,NavParams} from 'ionic-angular';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';
 import 'rxjs/add/operator/toPromise';
 import {Onedaycast} from './onedaycast';
+import {CityPage} from '../city/city'
 import {WeatherDataService} from '../dataservice/weatherdata.service'
 @Component({
   selector: 'page-home',
@@ -26,19 +28,33 @@ export class HomePage implements OnInit{
   selectedCityId:string;
   selectedCity:any;
   imgFromNet:string;
-  constructor(private dataservice:WeatherDataService,private navParams:NavParams) {
+  constructor(private dataservice:WeatherDataService,private navParams:NavParams,
+  private storage:Storage,private navController:NavController) {
     this.selectedCity = navParams.get('item');
     this.forecasts=[];
   }
   ngOnInit(): void {
-    if(this.selectedCity!=null && this.selectedCity!=""){//如果有选择城市
+    if(this.selectedCity!=null && this.selectedCity!=""){//如果是页面跳转过来且带item对象的，则显示item的城市天气
       this.selectedCityId=this.selectedCity.cityId;
       this.dataservice.getAllWeatherInfo(this.selectedCityId);
-    }else{
-      //TODO:暂时给定桐庐
-      this.selectedCityId="CN101210103";
-      this.dataservice.getAllWeatherInfo(this.selectedCityId);
+      this.initData();
+    }else{//否则去indexedDB查历史
+      this.storage.ready().then(()=>{
+          this.storage.get('selectedCity').then((item) => {
+             if(item!=null && item!="" && item!=undefined){//如果有历史选择的则加载历史选择的城市天气
+                 this.dataservice.getAllWeatherInfo(item.cityId);
+                 this.initData();
+             }else{//否则跳转到选择页面
+                 this.navController.push(CityPage);
+             }
+          })
+      })  
     }
+  }
+  /**
+   * 数据绑定总入口
+   */
+  initData():void{
     this.initForecasts();
     this.initBasicInfo();
     this.initNow();
@@ -154,6 +170,12 @@ export class HomePage implements OnInit{
       this.travSuggestion="N/A";
       this.wearSuggestion="N/A";  
     })
+  }
+
+  doRefresh(refresher) {
+      this.forecasts=[];
+      this.initData();
+      refresher.complete(); 
   }
 
 

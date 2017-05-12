@@ -1,9 +1,16 @@
 <ion-content padding class="home" [style.background-image]="imgFromNet">
+  <ion-refresher (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content pullingIcon="arrow-dropdown"
+      pullingText="下拉刷新天气"
+      refreshingSpinner="circles"
+      refreshingText="数据获取中..."></ion-refresher-content>
+  </ion-refresher>
+
   <ion-grid>
     <ion-row >
       <ion-col align-items-start style="text-align:left;"><button ion-button menuToggle icon-only style="background-color: rgba(0,0,0,0.1);"><ion-icon name="menu"></ion-icon></button></ion-col>
-      <ion-col align-self-center style="text-align:center;"><ion-title class="title">{{city}}</ion-title></ion-col>
-      <ion-col align-self-center style="font-size:130%;text-align:right">{{time}}</ion-col>
+      <ion-col align-self-center class="title-city">{{city}}</ion-col>
+      <ion-col align-self-center class="title-time">{{time}}</ion-col>
     </ion-row>
   </ion-grid>
 
