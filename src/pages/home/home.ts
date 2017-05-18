@@ -93,7 +93,6 @@ export class HomePage implements OnInit{
       if (data!=undefined) {
         this.city=data.city;
         this.time=data.update.loc.split(" ")[1]; 
-        this.dataservice.getBackgroundImgUrl2(data.cond.txt).subscribe(data=>this.imgFromNet="url("+data+")");
       }else{
         this.city="N/A";
         this.time="N/A"; 
@@ -112,6 +111,7 @@ export class HomePage implements OnInit{
       if (data!=undefined) {
         this.nowTemp=data.tmp;
         this.nowWeather=data.cond.txt;
+        this.dataservice.getBackgroundImgUrl2(data.cond.txt).subscribe(data=>this.imgFromNet="url("+data+")");
       }else{
         this.nowTemp="N/A";
         this.nowWeather="N/A"; 
